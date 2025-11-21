@@ -1,0 +1,13 @@
+name: PrabhupadaOS
+dimension: Wisdom
+description: A Universal Intelligence Container for Vedic Knowledge.
+inputs:
+  - type: text
+    description: User query or context.
+outputs:
+  - type: json
+    description: Structured wisdom response.
+tools:
+  - name: search_verse
+    description: Searches the Vedic scripture database.
+    command: python kernel/bridge.py "{query}"

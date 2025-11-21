@@ -1,0 +1,14 @@
+# ADHIKARA (Qualification)
+# Defines the audience context.
+# Used to tailor the response to the user's level of understanding.
+
+levels:
+  neophyte:
+    description: "New to the philosophy. Needs basics and encouragement."
+    focus: "Rules, simple concepts."
+  intermediate:
+    description: "Has some knowledge. Needs clarification and connection."
+    focus: "Philosophy, logic, debate."
+  advanced:
+    description: "Deeply realized. Needs relish and subtle nuance."
+    focus: "Rasa, deep theology."

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Soul Reincarnation",
+        "input": "What happens to the soul at death?",
+        "expected_fact": "soul similarly passes into another body",
+        "kernel_query": "soul"
+    },
+    {
+        "name": "Duty and Fruits",
+        "input": "Should I worry about the results of my work?",
+        "expected_fact": "not entitled to the fruits of action",
+        "kernel_query": "fruits"
+    }
+]

@@ -1,0 +1,18 @@
+{
+  "capabilities": [
+    {
+      "name": "search_scripture",
+      "description": "Searches the Vedic scripture (Bhagavad Gita) for verses matching the query. Use this to find authoritative quotes.",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string",
+            "description": "The search keyword or phrase."
+          }
+        },
+        "required": ["query"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+# PRAYOJANA (Goal/Result)
+# Defines the "Why" - the ultimate fruit of the practice.
+# "What is the destination? What do I achieve?"
+
+goals:
+  # --- The Ultimate Goal ---
+  prema:
+    definition: "Pure, unalloyed love of God. The highest perfection of life."
+    related_verses: ["BG 18.54", "BG 11.54"]
+  
+  krishna_consciousness:
+    definition: "The state of constant awareness of Krishna. Being fully absorbed in Him."
+    related_verses: ["BG 12.8", "BG 9.22"]
+
+  # --- Liberation (Moksha) ---
+  moksha:
+    definition: "Liberation from the cycle of birth and death (samsara)."
+    related_verses: ["BG 4.9", "BG 8.15"]
+  
+  brahma_bhuta:
+    definition: "The joyful state of self-realization, free from hankering and lamentation."
+    related_verses: ["BG 18.54", "BG 5.24"]
+  
+  nirvana:
+    definition: "Cessation of material existence."
+    related_verses: ["BG 2.72", "BG 6.15"]
+
+  # --- Destinations ---
+  vaikuntha:
+    definition: "The eternal spiritual world, free from anxiety. The supreme abode of Krishna (Goloka)."
+    related_verses: ["BG 15.6", "BG 8.21"]
+  
+  heavenly_planets:
+    definition: "Svarga-loka. Temporary higher material planets attained by good karma/sacrifice. One returns after merit is exhausted."
+    related_verses: ["BG 9.20-21"]
+  
+  hellish_planets:
+    definition: "Lower planetary systems attained by sinful activities."
+    related_verses: ["BG 16.16", "BG 1.43"]
+
+  # --- Personal Benefits ---
+  shanti:
+    definition: "Peace. Attained by renouncing desires for sense gratification."
+    related_verses: ["BG 2.70", "BG 2.71", "BG 5.29"]
+  
+  knowledge:
+    definition: "Jnana. Understanding the difference between matter and spirit."
+    related_verses: ["BG 4.38", "BG 4.39"]
+  
+  purification:
+    definition: "Cleansing of the heart (ceto-darpana-marjanam) from lust, anger, and greed."
+    related_verses: ["BG 5.11"]

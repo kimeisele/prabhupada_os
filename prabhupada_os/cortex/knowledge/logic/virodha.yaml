@@ -1,0 +1,9 @@
+# VIRODHA (Paradox Resolution)
+# Defines rules to resolve apparent contradictions in scripture.
+# Used to handle complex queries where multiple instructions seem to conflict.
+
+rules:
+  - name: "Action vs Inaction"
+    context: "Karma Yoga vs Jnana Yoga"
+    resolution: "Work in devotion (Bhakti) is superior to renunciation of work."
+    reference: "BG 5.2"

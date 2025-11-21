@@ -1,0 +1,75 @@
+# EPUB Knowledge Graph - Ontology
+# Defines entities, properties, and relationships
+
+entities:
+  Book:
+    description: "A complete scripture book"
+    properties:
+      - name: "string"
+      - edition: "string"
+      - author: "string"
+      - language: "string"
+      - total_chapters: "integer"
+      - total_verses: "integer"
+    relationships:
+      - contains: Chapter[]
+      
+  Chapter:
+    description: "A chapter within a book"
+    properties:
+      - number: "integer"
+      - title: "string"
+      - expected_verse_count: "integer"
+      - actual_verse_count: "integer"
+    relationships:
+      - belongs_to: Book
+      - contains: Verse[]
+      - spans: File[]  # can span multiple files
+      
+  Verse:
+    description: "A single verse"
+    properties:
+      - number: "integer"
+      - reference: "string"  # e.g., "BG 1.1"
+      - sanskrit: "text"
+      - synonyms: "text"
+      - translation: "text"
+      - purport: "text"
+      - content_hash: "string"
+    relationships:
+      - belongs_to: Chapter
+      - found_in: File
+      
+  File:
+    description: "An HTML file in the EPUB"
+    properties:
+      - path: "string"
+      - size: "integer"
+      - has_chapter_marker: "boolean"
+      - verse_count: "integer"
+    relationships:
+      - belongs_to: Book
+      - contains: Verse[]
+      - declares: Chapter[]  # chapters marked in this file
+
+# Relationship types
+relationships:
+  contains:
+    cardinality: "one-to-many"
+    description: "Parent contains children"
+    
+  belongs_to:
+    cardinality: "many-to-one"
+    description: "Child belongs to parent"
+    
+  spans:
+    cardinality: "many-to-many"
+    description: "Chapter can span multiple files"
+    
+  found_in:
+    cardinality: "many-to-one"
+    description: "Verse found in specific file"
+    
+  declares:
+    cardinality: "many-to-many"
+    description: "File declares chapter markers"

@@ -1,0 +1,72 @@
+# SAMBANDHA (Relationship/Ontology)
+# Defines the "Who" and "What" of the Vedic worldview.
+# "Who am I? Who is God? What is this world?"
+
+concepts:
+  # --- The Absolute Truth ---
+  krishna:
+    definition: "The Supreme Personality of Godhead (Bhagavan). The source of all spiritual and material worlds."
+    attributes: ["All-attractive", "Cause of all causes", "Supreme Controller"]
+    related_verses: ["BG 10.8", "BG 7.7", "BG 15.15"]
+  
+  paramatma:
+    definition: "The Supersoul, the localized aspect of the Absolute Truth situated in the heart of every living entity and within every atom."
+    attributes: ["Witness", "Permitter", "Overseer"]
+    related_verses: ["BG 13.23", "BG 15.15", "BG 18.61"]
+  
+  brahman:
+    definition: "The all-pervading, impersonal spiritual effulgence (brahmajyoti) emanating from Krishna's body."
+    attributes: ["Formless", "Eternal", "Full of knowledge"]
+    related_verses: ["BG 14.27", "BG 13.13"]
+
+  # --- The Living Entity ---
+  jiva:
+    definition: "The individual soul (atma). Eternal, fragmental part and parcel of God."
+    attributes: ["Eternal", "Indestructible", "Conscious", "Distinct from body"]
+    related_verses: ["BG 2.13", "BG 2.20", "BG 15.7"]
+  
+  body:
+    definition: "The temporary material covering of the soul, consisting of gross (earth, water, fire, air, ether) and subtle (mind, intelligence, false ego) elements."
+    related_verses: ["BG 2.22", "BG 13.6-7"]
+
+  # --- Material Nature (Prakriti) ---
+  prakriti:
+    definition: "Material Nature, the inferior energy of God."
+    related_verses: ["BG 7.4", "BG 9.10"]
+  
+  gunas:
+    definition: "The three modes of material nature that bind the soul to the body."
+    types:
+      sattva: "Mode of Goodness (purity, knowledge, happiness)"
+      rajas: "Mode of Passion (desire, activity, greed)"
+      tamas: "Mode of Ignorance (madness, sleep, laziness)"
+    related_verses: ["BG 14.5", "BG 14.6-9"]
+  
+  kala:
+    definition: "Eternal Time, the force that destroys all material things."
+    related_verses: ["BG 11.32"]
+  
+  karma:
+    definition: "The law of action and reaction. Also refers to fruitive activities performed for material gain."
+    types:
+      karma: "Action sanctioned by scripture."
+      vikarma: "Forbidden action (sin)."
+      akarma: "Action with no reaction (devotional service)."
+    related_verses: ["BG 4.17", "BG 3.9"]
+    
+  maya:
+    definition: "Illusion. The energy that covers the soul's knowledge and makes it identify with the body."
+    related_verses: ["BG 7.14"]
+    
+  samsara:
+    definition: "The cycle of repeated birth and death."
+    related_verses: ["BG 8.15", "BG 9.3"]
+
+  # --- Cosmic Hierarchy ---
+  demigods:
+    definition: "Devas. Powerful administrators of the material universe (e.g., Indra, Brahma), subordinate to the Supreme Lord."
+    related_verses: ["BG 7.20-23", "BG 9.23"]
+  
+  avatara:
+    definition: "Incarnation. The descent of the Supreme Lord into the material world to restore dharma."
+    related_verses: ["BG 4.7-8"]

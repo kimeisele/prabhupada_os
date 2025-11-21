@@ -1,0 +1,146 @@
+# EPUB Parsing Rules
+# Rule engine for semantic parser
+
+rules:
+  # Chapter Detection Rules
+  - id: "R001"
+    name: "detect_chapter_by_word"
+    category: "chapter_detection"
+    priority: 10
+    conditions:
+      - pattern_match: "CHAPTER (ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN|ELEVEN|TWELVE|THIRTEEN|FOURTEEN|FIFTEEN|SIXTEEN|SEVENTEEN|EIGHTEEN)"
+        case_insensitive: true
+    actions:
+      - type: "set_chapter"
+        value: "word_to_number_map"
+        
+  - id: "R002"
+    name: "detect_chapter_by_number"
+    category: "chapter_detection"
+    priority: 9
+    conditions:
+      - pattern_match: "CHAPTER (\\d+)"
+        case_insensitive: true
+    actions:
+      - type: "set_chapter"
+        value: "captured_number"
+        
+  - id: "R003"
+    name: "chapter_continuation"
+    category: "chapter_detection"
+    priority: 5
+    conditions:
+      - no_chapter_marker: true
+      - has_verses: true
+      - previous_chapter_exists: true
+    actions:
+      - type: "use_previous_chapter"
+        
+  # Verse Extraction Rules
+  - id: "R101"
+    name: "extract_single_verse"
+    category: "verse_extraction"
+    priority: 10
+    conditions:
+      - pattern_match: "TEXT (\\d+)"
+        case_insensitive: true
+    actions:
+      - type: "create_verse"
+        verse_number: "captured_number"
+        
+  - id: "R102"
+    name: "expand_verse_range"
+    category: "verse_extraction"
+    priority: 10
+    conditions:
+      - pattern_match: "TEXT (\\d+)-(\\d+)"
+        case_insensitive: true
+    actions:
+      - type: "expand_range"
+        start: "captured_group_1"
+        end: "captured_group_2"
+        
+  # Validation Rules
+  - id: "R201"
+    name: "validate_chapter_count"
+    category: "validation"
+    priority: 1
+    conditions:
+      - parsing_complete: true
+    actions:
+      - type: "assert_equal"
+        field: "total_chapters"
+        expected: "from_patterns"
+        
+  - id: "R202"
+    name: "validate_verse_count"
+    category: "validation"
+    priority: 1
+    conditions:
+      - parsing_complete: true
+    actions:
+      - type: "assert_equal"
+        field: "total_verses"
+        expected: "from_patterns"
+        
+  - id: "R203"
+    name: "validate_verse_sequence"
+    category: "validation"
+    priority: 2
+    conditions:
+      - chapter_complete: true
+    actions:
+      - type: "check_sequence"
+        description: "Verses should be 1,2,3... with no gaps"
+        
+  - id: "R204"
+    name: "validate_no_duplicates"
+    category: "validation"
+    priority: 2
+    conditions:
+      - parsing_complete: true
+    actions:
+      - type: "check_uniqueness"
+        field: "verse_reference"
+        
+  # Error Handling Rules
+  - id: "R301"
+    name: "handle_missing_chapter"
+    category: "error_handling"
+    priority: 5
+    conditions:
+      - chapter_missing: true
+    actions:
+      - type: "search_all_files"
+        description: "Search all files for missing chapter markers"
+        
+  - id: "R302"
+    name: "handle_verse_count_mismatch"
+    category: "error_handling"
+    priority: 5
+    conditions:
+      - verse_count_mismatch: true
+    actions:
+      - type: "report_anomaly"
+      - type: "suggest_fix"
+
+# Word to number mapping
+word_to_number:
+  ONE: 1
+  TWO: 2
+  THREE: 3
+  FOUR: 4
+  FIVE: 5
+  SIX: 6
+  SEVEN: 7
+  EIGHT: 8
+  NINE: 9
+  TEN: 10
+  ELEVEN: 11
+  TWELVE: 12
+  THIRTEEN: 13
+  FOURTEEN: 14
+  FIFTEEN: 15
+  SIXTEEN: 16
+  SEVENTEEN: 17
+  EIGHTEEN: 18

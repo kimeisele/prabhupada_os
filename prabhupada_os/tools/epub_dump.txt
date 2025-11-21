@@ -1,0 +1,608 @@
+--- Inspecting: Bhagavad-Gita As It Is (Original 1972 Edition).epub ---
+
+[File List]
+ - mimetype
+ - META-INF/
+ - META-INF/container.xml
+ - images/
+ - images/00044.jpeg
+ - images/00013.jpeg
+ - images/00005.jpeg
+ - images/00052.jpeg
+ - images/00029.jpeg
+ - images/00048.jpeg
+ - images/00009.jpeg
+ - images/00025.jpeg
+ - images/00033.jpeg
+ - images/00032.jpeg
+ - images/00024.jpeg
+ - images/00008.jpeg
+ - images/00049.jpeg
+ - images/00028.jpeg
+ - images/00053.jpeg
+ - images/00012.jpeg
+ - images/00045.jpeg
+ - images/00019.jpeg
+ - images/00058.jpeg
+ - images/00023.jpeg
+ - images/00035.jpeg
+ - images/00042.jpeg
+ - images/00015.jpeg
+ - images/00054.jpeg
+ - images/00039.jpeg
+ - images/00038.jpeg
+ - images/00055.jpeg
+ - images/00014.jpeg
+ - images/00043.jpeg
+ - images/00034.jpeg
+ - images/00022.jpeg
+ - images/00018.jpeg
+ - images/00037.jpeg
+ - images/00021.jpeg
+ - images/00056.jpeg
+ - images/00001.jpeg
+ - images/00017.jpeg
+ - images/00040.jpeg
+ - images/00041.jpeg
+ - images/00016.jpeg
+ - images/00057.jpeg
+ - images/00020.jpeg
+ - images/00036.jpeg
+ - images/00007.jpeg
+ - images/00011.jpeg
+ - images/00046.jpeg
+ - images/00031.jpeg
+ - images/00027.jpeg
+ - images/00026.jpeg
+ - images/00047.jpeg
+ - images/00010.jpeg
+ - images/00006.jpeg
+ - images/00051.jpeg
+ - page_styles.css
+ - titlepage.xhtml
+ - stylesheet.css
+ - content.opf
+ - cover.jpeg
+ - text/
+ - text/part0015.html
+ - text/part0003.html
+ - text/part0019.html
+ - text/part0023.html
+ - text/part0035.html
+ - text/part0034.html
+ - text/part0022.html
+ - text/part0018.html
+ - text/part0002.html
+ - text/part0014.html
+ - text/part0009.html
+ - text/part0025.html
+ - text/part0033.html
+ - text/part0013.html
+ - text/part0005.html
+ - text/part0029.html
+ - text/part0028.html
+ - text/part0004.html
+ - text/part0012.html
+ - text/part0032.html
+ - text/part0024.html
+ - text/part0008.html
+ - text/part0031.html
+ - text/part0027.html
+ - text/part0007.html
+ - text/part0011.html
+ - text/part0010.html
+ - text/part0006.html
+ - text/part0026.html
+ - text/part0030.html
+ - text/part0001.html
+ - text/part0017.html
+ - text/part0021.html
+ - text/part0020.html
+ - text/part0036.html
+ - text/part0016.html
+ - text/part0000.html
+ - toc.ncx
+
+[Target Selected] Found candidate for Chapter 2: text/part0023.html
+
+--- Raw Content (First 500 lines of text/part0023.html) ---
+1: <?xml version='1.0' encoding='utf-8'?>
+2: <html xmlns="http://www.w3.org/1999/xhtml">
+3:   <head>
+4:     <title>Untitled Document</title>
+5:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+6:   <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+7: <link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+8: </head>
+9:   <body class="calibre9" id="LTSU0-45adb11a276f49e090f27a487ede3c5e">
+10: <hrefU0003DU00027httpU0003A cssU0003Ffamily="Raleway'" fonts.googleapis.com="" rel="stylesheet" type="text/css">
+11: 
+12: <h3 class="calibre29" id="calibre_toc_14">Chapter-8</h3>
+13: 
+14: <div class="verse-chap">
+15: <div class="calibre38">CHAPTER EIGHT</div>
+16: 
+17: 
+18: 
+19:     </div>
+20: 
+21: <div class="chapterlogo1"><img class="logo1" src="../images/00015.jpeg"/></div>
+22: 
+23:     <div class="verse-hed2">Attaining the Supreme</div>
+24: 
+25: 
+26:     <div class="calibre5">
+27:     
+28:     
+29:     <div class="verse-text">       TEXT 1        </div>
+30: 
+31: 
+32: 
+33: <div class="verse">अर्जुन उवाच ।<br class="calibre14"/>
+34: 
+35:                    किं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।<br class="calibre14"/>
+36: 
+37:                     अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ॥१॥</div>
+38: 
+39: 
+40: 
+41:    
+42: 
+43: <div class="verse-trs4">    arjuna uvāca</div><div class="verse-trs4">
+44: 
+45: 
+46: 
+47:     kiṁ tad-brahma kim adhyātmaṁ</div><div class="verse-trs5">
+48: 
+49:         kiṁ karma puruṣottama</div><div class="verse-trs4">
+50: 
+51: 
+52: 
+53:     adhibhūtaṁ ca kiṁ proktam</div><div class="verse-trs5">
+54: 
+55:         adhidaivaṁ kim ucyate</div>
+56: 
+57: 
+58: 
+59:     <div class="word-mean"><i class="calibre17">arjunaḥ uvāca—</i>Arjuna said; <i class="calibre17">kim—</i>what; <i class="calibre17">tat—</i>that; <i class="calibre17">brahma—</i>Brahman; <i class="calibre17">kim—</i>what; <i class="calibre17">adhyātmam—</i>the self; <i class="calibre17">kim—</i>what; <i class="calibre17">karma—</i>fruitive activities; <i class="calibre17">puruṣottama</i>—O Supreme Person; <i class="calibre17">adhibhūtam—</i>the material manifestation; <i class="calibre17">ca—</i>and; <i class="calibre17">kim—</i>what; <i class="calibre17">proktam—</i>is called; <i class="calibre17">adhidaivam—</i>the demigods; <i class="calibre17">kim— </i>what; <i class="calibre17">ucyate—</i>is called.</div>
+60: 
+61: 
+62: 
+63:   <div class="verse-hed1">TRANSLATION</div>
+64: 
+65: 
+66: 
+67:  <div class="data-trs">Arjuna inquired: O my Lord, O Supreme Person, what is Brahman? What is the self? What are fruitive activities? What is this material manifestation? And what are the demigods? Please explain this to me.</div>
+68: 
+69: 
+70: 
+71:   <div class="verse-hed1">PURPORT</div>
+72: 
+73: 
+74: 
+75:    <div class="purport">In this chapter Lord Kṛṣṇa answers these different questions of Arjuna beginning with, "What is Brahman?" The Lord also explains <i class="calibre17">karma, </i>fruitive activities, devotional service and <i class="calibre17">yoga </i>principles, and devotional service in its pure form. The <i class="calibre17">Śrīmad- Bhāgavatam </i>explains that the Supreme Absolute Truth is known as Brahman, Paramātmā, and Bhagavān. In addition, the living entity, individual soul, is also called Brahman. Arjuna also inquires about <i class="calibre17">ātmā, </i>which refers to body, soul and mind. According to the Vedic dictionary, <i class="calibre17">ātmā </i>refers to the mind, soul, body and senses also.</div>
+76: 
+77: 
+78: 
+79:    <div class="purport">Arjuna has addressed the Supreme Lord as <i class="calibre17">Puruṣottama, </i>Supreme Person, which means that he was putting these questions not simply to a friend but to the Supreme Person, knowing Him to be the supreme authority able to give definitive answers.</div>
+80: 
+81: 
+82:     </div>
+83:     
+84:     
+85:     <div class="calibre5">
+86: 
+87: 
+88:     <div class="verse-text">       TEXT 2        </div>
+89: 
+90: 
+91: 
+92: <div class="verse"> अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।<br class="calibre14"/>
+93: 
+94:                     प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ॥२॥</div>
+95: 
+96: 
+97: 
+98:    
+99: 
+100: <div class="verse-trs4">    adhiyajñaḥ kathaṁ ko 'tra</div><div class="verse-trs5">
+101: 
+102:         dehe 'smin madhusūdana</div><div class="verse-trs4">
+103: 
+104: 
+105: 
+106:     prayāṇa-kāle ca kathaṁ</div><div class="verse-trs5">
+107: 
+108:         jñeyo 'si niyatātmabhiḥ</div>
+109: 
+110: 
+111: 
+112:     <div class="word-mean"><i class="calibre17">adhiyajñaḥ—</i>the Lord of sacrifice; <i class="calibre17">katham—</i>how; <i class="calibre17">kaḥ—</i>who; <i class="calibre17">atra—</i>here; <i class="calibre17">dehe—</i>in the body; <i class="calibre17">asmin—</i>in this; <i class="calibre17">madhusūdana</i>—O Madhusūdana; <i class="calibre17">prayāṇa-kāle—</i>at the time of death; <i class="calibre17">ca—</i>and; <i class="calibre17">katham—</i>how; <i class="calibre17">jñeyaḥ—</i>be known; <i class="calibre17">asi—</i>You can; <i class="calibre17">niyata-ātmabhiḥ—</i>by the self-controlled.</div>
+113: 
+114: 
+115: 
+116:   <div class="verse-hed1">TRANSLATION</div>
+117: 
+118: 
+119: 
+120:  <div class="data-trs">How does this Lord of sacrifice live in the body, and in which part does He live, O Madhusūdana? And how can those engaged in devotional service know You at the time of death?</div>
+121: 
+122: 
+123: 
+124:   <div class="verse-hed1">PURPORT</div>
+125: 
+126: 
+127: 
+128:    <div class="purport">The Lord of sacrifice accepts Indra and Viṣṇu. Viṣṇu is the chief of the primal demigods, including Brahmā and Śiva, and Indra is the chief of the administrative demigods. Both Indra and Viṣṇu are worshiped by <i class="calibre17">yajña </i>performances. But here Arjuna asks who is actually the Lord of <i class="calibre17">yajña </i>(sacrifice), and how is the Lord residing within the body of the living entity.</div>
+129: 
+130: 
+131: 
+132:    <div class="purport">Arjuna addresses the Lord as Madhusūdana because Kṛṣṇa once killed a demon named Madhu. Actually these questions, which are of the nature of doubts, should not have arisen in the mind of Arjuna because Arjuna is a Kṛṣṇa conscious devotee. Therefore these doubts are like demons. Since Kṛṣṇa is so expert in killing demons, Arjuna here addresses Him as Madhusūdana so that Kṛṣṇa might kill the demonic doubts that arise in Arjuna's mind.</div>
+133: 
+134: 
+135: 
+136:    <div class="purport">Now the word <i class="calibre17">prayāṇa-kāle </i>in this verse is very significant because whatever we do in life will be tested at the time of death. Arjuna fears that at the time of death, those who are in Kṛṣṇa consciousness will forget the Supreme Lord because at such a time body functions are disrupted and the mind may be in a panic-stricken state. Therefore Mahārāja Kulaśekhara, a great devotee, prays, "My dear Lord, may I die immediately now that I'm healthy so that the swan of my mind may enter into the stem of Thy lotus feet." This metaphor is used because the swan often takes pleasure in entering the stem of the lotus flower-similarly, the mind of the pure devotee is drawn to the lotus feet of the Lord. Mahārāja Kulaśekhara fears that at the moment of death his throat will be so choked up that he will not be able to chant the holy names, so it is better to "die immediately." Arjuna questions how one's mind can remain fixed on Kṛṣṇa's lotus feet at such times.</div>
+137: 
+138: 
+139:     </div>
+140:     
+141:     <div class="calibre5">
+142: 
+143: 
+144:     <div class="verse-text">       TEXT 3        </div>
+145: 
+146: 
+147: 
+148:        <div class="verse"> श्रीभगवानुवाच ।<br class="calibre14"/>
+149: 
+150:                         अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।<br class="calibre14"/>
+151: 
+152:                          भूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ॥३॥</div>
+153: 
+154: 
+155: 
+156:    
+157: 
+158: <div class="verse-trs4">    śrī bhagavān uvāca</div><div class="verse-trs4">
+159: 
+160: 
+161: 
+162:     akṣaraṁ brahma paramaṁ</div><div class="verse-trs5">
+163: 
+164:         svabhāvo 'dhyātmam ucyate</div><div class="verse-trs4">
+165: 
+166: 
+167: 
+168:     bhūta-bhāvodbhava-karo</div><div class="verse-trs5">
+169: 
+170:         visargaḥ karma-saṁjñitaḥ</div>
+171: 
+172: 
+173: 
+174:     <div class="word-mean"><i class="calibre17">śrī bhagavān uvāca—</i>the Supreme Personality of Godhead said; <i class="calibre17">akṣaram— </i>indestructible; <i class="calibre17">brahma—</i>Brahman; <i class="calibre17">paramam—</i>transcendental; <i class="calibre17">svabhāvaḥ— </i>eternal nature; <i class="calibre17">adhyātmam—</i>the self; <i class="calibre17">ucyate—</i>is called; <i class="calibre17">bhūta-bhāva- udbhava-karaḥ—</i>action producing the material bodies of the living entities; <i class="calibre17">visargaḥ—</i>creation; <i class="calibre17">karma—</i>fruitive activities; <i class="calibre17">saṁjñitaḥ—</i>is called.</div>
+175: 
+176: 
+177: 
+178:   <div class="verse-hed1">TRANSLATION</div>
+179: 
+180: 
+181: 
+182:  <div class="data-trs">The Supreme Lord said, The indestructible, transcendental living entity is called Brahman, and his eternal nature is called the self. Action pertaining to the development of these material bodies is called karma, or fruitive activities.</div>
+183: 
+184: 
+185: 
+186:   <div class="verse-hed1">PURPORT</div>
+187: 
+188: 
+189: 
+190:    <div class="purport">Brahman is indestructible and eternally existing, and its constitution is not changed at any time. But beyond Brahman there is Parabrahman. Brahman refers to the living entity, and Parabrahman refers to the Supreme Personality of Godhead. The constitutional position of the living entity is different from the position he takes in the material world. In material consciousness, his nature is to try to be the lord of matter, but in spiritual (Kṛṣṇa) consciousness, his position is to serve the Supreme. When the living entity is in material consciousness, he has to take on various bodies in the material world. That is called <i class="calibre17">karma, </i>or varied creation by the force of material consciousness.</div>
+191: 
+192: 
+193: 
+194:    <div class="purport">In Vedic literature the living entity is called <i class="calibre17">jīvātmā </i>and Brahman, but he is never called Parabrahman. The living entity <i class="calibre17">(jīvātmā) </i>takes different positions<i class="calibre17">—</i>sometimes he merges into the dark material nature and identifies himself with matter, and sometimes he identifies himself with the superior spiritual nature. Therefore he is called the Supreme Lord's marginal energy. According to his identification with material or spiritual nature, he receives a material or spiritual body. In material nature he may take a body from any of the 8,400,000 species of life, but in spiritual nature he has only one body. In material nature he is sometimes manifested as a man, demigod, an animal, a beast, bird, etc., according to his <i class="calibre17">karma. </i>To attain material heavenly planets and enjoy their facilities, he sometimes performs sacrifices <i class="calibre17">(yajña), </i>but when his merit is exhausted, he returns to earth again in the form of a man.</div>
+195: 
+196: 
+197: 
+198:    <div class="purport">In the process of sacrifice, the living entity makes specific sacrifices to attain specific heavenly planets and consequently reaches them. When the merit of sacrifice is exhausted, then the living entity descends to earth in the form of rain, then takes on the form of grains, and the grains are eaten by man and transformed into semen, which impregnates a woman, and thus the living entity once again attains the human form to perform sacrifice and so repeat the same cycle. In this way, the living entity perpetually comes and goes on the material path. The Kṛṣṇa conscious person, however, avoids such sacrifices. He takes directly to Kṛṣṇa consciousness and thereby prepares himself to return to Godhead.</div>
+199: 
+200: 
+201: 
+202:    <div class="purport">Impersonalist commentators on the <i class="calibre17">Gītā </i>unreasonably assume that Brahman takes the form of <i class="calibre17">jīva </i>in the material world, and to substantiate this they refer to Chapter Fifteen, verse 7, of the <i class="calibre17">Gītā. </i>But this verse also speaks of the living entity as "an eternal fragment of Myself." The fragment of God, the living entity, may fall down into the material world, but the Supreme Lord <i class="calibre17">(Acyuta) </i>never falls down. Therefore this assumption that the Supreme Brahman assumes the form of <i class="calibre17">jīva</i> is not acceptable. It is important to remember that in Vedic literature Brahman (the living entity) is distinguished from Parabrahman (the Supreme Lord).</div>
+203: 
+204: 
+205:     </div>
+206:     
+207:     <div class="calibre5">
+208: 
+209: 
+210:     <div class="verse-text">       TEXT 4        </div>
+211: 
+212: 
+213: 
+214: <div class="verse">     अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् ।<br class="calibre14"/>
+215: 
+216:                         अधियज्ञोऽहमेवात्र देहे देहभृतां वर ॥४॥</div>
+217: 
+218: 
+219: 
+220:    
+221: 
+222: <div class="verse-trs4">    adhibhūtaṁ kṣaro bhāvaḥ</div><div class="verse-trs5">
+223: 
+224:         puruṣaś cādhidaivatam</div><div class="verse-trs4">
+225: 
+226: 
+227: 
+228:     adhiyajño 'ham evātra</div><div class="verse-trs5">
+229: 
+230:         dehe deha-bhṛtāṁ vara</div>
+231: 
+232: 
+233: 
+234:     <div class="word-mean"><i class="calibre17">adhibhūtam—</i>the physical manifestation; <i class="calibre17">kṣaraḥ—</i>constantly changing; <i class="calibre17">bhāvaḥ—</i>nature; <i class="calibre17">puruṣaḥ—</i>the universal form; <i class="calibre17">ca—</i>and; <i class="calibre17">adhidaivatam— </i>including all demigods like the sun and moon; <i class="calibre17">adhiyajñaḥ—</i>the Supersoul; <i class="calibre17">aham—</i>I (Kṛṣṇa); <i class="calibre17">eva—</i>certainly; <i class="calibre17">atra—</i>in this; <i class="calibre17">dehe—</i>body; <i class="calibre17">deha-bhṛtām— </i>of the embodied; <i class="calibre17">vara—</i>the Supreme.</div>
+235: 
+236: 
+237: 
+238:   <div class="verse-hed1">TRANSLATION</div>
+239: 
+240: 
+241: 
+242:  <div class="data-trs">Physical nature is known to be endlessly mutable. The universe is the cosmic form of the Supreme Lord, and I am that Lord represented as the Supersoul, dwelling in the heart of every embodied being.</div>
+243: 
+244: 
+245: 
+246:   <div class="verse-hed1">PURPORT</div>
+247: 
+248: 
+249: 
+250:    <div class="purport">The physical nature is constantly changing. Material bodies generally pass through six stages: they are born, they grow, they remain for some duration, they produce some by-products, they dwindle, and then they vanish. This physical nature is called <i class="calibre17">adhibhūtam. </i>Because it is created at a certain point and will be annihilated at a certain point, the conception of the universal form of the Supreme Lord that includes all the demigods and their different planets is called <i class="calibre17">adhidaivatam. </i>The individual soul <i class="calibre17">(jīva) </i>accompanies the body. The Supersoul, a plenary representation of Lord Kṛṣṇa, is called the Paramātmā or <i class="calibre17">adhiyajña </i>and is situated in the heart. The word <i class="calibre17">eva</i> is particularly important in the context of this verse because by this word the Lord stresses that the Paramātmā is not different from Him. The Supersoul, the Supreme Personality of Godhead, seated beside the individual soul, is the witness of the individual soul's activities and is the source of consciousness. The Supersoul gives the <i class="calibre17">jīva </i>an opportunity to act freely, and He witnesses his activities. The functions of all these different manifestations of the Supreme Lord automatically become clarified for the pure Kṛṣṇa conscious devotee engaged in transcendental service of the Lord. The gigantic universal form of the Lord called <i class="calibre17">adhidaivatam</i> is contemplated by the neophyte who cannot approach the Supreme Lord in His manifestation as Supersoul. The neophyte is advised to contemplate the universal form whose legs are considered the lower planets and whose eyes are considered the sun and moon, and whose head is considered the upper planetary system.</div>
+251: 
+252: 
+253:     </div>
+254:     
+255:     <div class="calibre5">
+256: 
+257: 
+258:     <div class="verse-text">       TEXT 5        </div>
+259: 
+260: 
+261: 
+262: <div class="verse"> अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।<br class="calibre14"/>
+263: 
+264:                     यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ॥५॥</div>
+265: 
+266: 
+267: 
+268:    
+269: 
+270: <div class="verse-trs4">    anta-kāle ca mām eva</div><div class="verse-trs5">
+271: 
+272:         smaran muktvā kalevaram</div><div class="verse-trs4">
+273: 
+274: 
+275: 
+276:     yaḥ prayāti sa mad-bhāvaṁ</div><div class="verse-trs5">
+277: 
+278:         yāti nāsty atra saṁśayaḥ</div>
+279: 
+280: 
+281: 
+282:     <div class="word-mean"><i class="calibre17">anta-kāle—</i>at the end of life; <i class="calibre17">ca—</i>also; <i class="calibre17">mām—</i>unto Me; <i class="calibre17">eva—</i>certainly; <i class="calibre17">smaran—</i>remembering; <i class="calibre17">muktvā—</i>quitting; <i class="calibre17">kalevaram—</i>the body; <i class="calibre17">yaḥ—</i>he who; <i class="calibre17">prayāti—</i>goes; <i class="calibre17">saḥ—</i>he; <i class="calibre17">mad-bhāvam—</i>My nature; <i class="calibre17">yati—</i>achieves; <i class="calibre17">na— </i>not; <i class="calibre17">asti—</i>there is; <i class="calibre17">atra—</i>here; <i class="calibre17">saṁśayaḥ—</i>doubt.</div>
+283: 
+284: 
+285: 
+286:   <div class="verse-hed1">TRANSLATION</div>
+287: 
+288: 
+289: 
+290:  <div class="data-trs">And whoever, at the time of death, quits his body, remembering Me alone, at once attains My nature. Of this there is no doubt.</div>
+291: 
+292: 
+293: 
+294:   <div class="verse-hed1">PURPORT</div>
+295: 
+296: 
+297: 
+298:    <div class="purport">In this verse the importance of Kṛṣṇa consciousness is stressed. Anyone who quits his body in Kṛṣṇa consciousness is at once transferred to the transcendental abode of the Supreme Lord. The word <i class="calibre17">smaran </i>(remembering) is important. Remembrance of Kṛṣṇa is not possible for the impure soul who has not practiced Kṛṣṇa consciousness in devotional service. To remember Kṛṣṇa one should chant the <i class="calibre17">mahāmantra, </i>Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare, incessantly, following in the footsteps of Lord Caitanya, being more tolerant than the tree, humbler than the grass and offering all respect to others without requiring respect in return. In such a way one will be able to depart from the body successfully remembering Kṛṣṇa and so attain the supreme goal.</div>
+299: 
+300: 
+301:     </div>
+302:     
+303:     <div class="calibre5">
+304: 
+305: 
+306:     <div class="verse-text">       TEXT 6        </div>
+307: 
+308: 
+309: 
+310: <div class="verse">     यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।<br class="calibre14"/>
+311: 
+312:                         तं तमेवैति कौन्तेय सदा तद्भावभावितः ॥६॥</div>
+313: 
+314: 
+315: 
+316:   
+317: 
+318: <div class="verse-trs4">    yaṁ yaṁ vāpi smaran bhāvaṁ</div><div class="verse-trs5">
+319: 
+320:         tyajaty ante kalevaram</div><div class="verse-trs4">
+321: 
+322: 
+323: 
+324:     taṁ tam evaiti kaunteya</div><div class="verse-trs5">
+325: 
+326:         sadā tad-bhāva-bhāvitaḥ</div>
+327: 
+328: 
+329: 
+330:     <div class="word-mean"><i class="calibre17">yam yam—</i>whatever; <i class="calibre17">vā</i>—either; <i class="calibre17">api—</i>also; <i class="calibre17">smaran—</i>remembering; <i class="calibre17">bhāvam —</i>nature; <i class="calibre17">tyajati—</i>give up; <i class="calibre17">ante—</i>at the end; <i class="calibre17">kalevaram—</i>this body; <i class="calibre17">tam tam —</i>similar; <i class="calibre17">eva—</i>certainly; <i class="calibre17">eti—</i>gets; <i class="calibre17">kaunteya</i>—O son of Kuntī; <i class="calibre17">sadā</i>—always; <i class="calibre17">tat</i>—that; <i class="calibre17">bhāva—</i>state of being; <i class="calibre17">bhāvitaḥ—</i>remembering.</div>
+331: 
+332: 
+333: 
+334:   <div class="verse-hed1">TRANSLATION</div>
+335: 
+336: 
+337: 
+338:  <div class="data-trs">Whatever state of being one remembers when he quits his body, that state he will attain without fail.</div>
+339: 
+340: 
+341: 
+342:   <div class="verse-hed1">PURPORT</div>
+343: 
+344: 
+345: 
+346:    <div class="purport">The process of changing one's nature at the critical moment of death is here explained. How can one die in the proper state of mind? Mahārāja Bharata thought of a deer at the time of death and so was transferred to that form of life. However, as a deer, Mahārāja Bharata could remember his past activities. Of course the cumulative effect of the thoughts and actions of one's life influences one's thoughts at the moment of death; therefore the actions of this life determine one's future state of being. If one is transcendentally absorbed in Kṛṣṇa's service,then his next body will be transcendental (spiritual), not physical. Therefore the chanting of Hare Kṛṣṇa is the best process for successfully changing one's state of being to transcendental life.</div>
+347: 
+348: 
+349:     </div>
+350:     
+351:     <div class="calibre5">
+352: 
+353: 
+354:     <div class="verse-text">       TEXT 7        </div>
+355: 
+356: 
+357: 
+358: <div class="verse">     तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।<br class="calibre14"/>
+359: 
+360:                         मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः ॥७॥ </div>
+361: 
+362: 
+363: 
+364: <div class="verse-trs4">    tasmāt sarveṣu kāleṣu</div><div class="verse-trs5">
+365: 
+366:         mām anusmara yudhya ca</div><div class="verse-trs4">
+367: 
+368: 
+369: 
+370:     mayy arpita-mano buddhir</div><div class="verse-trs5">
+371: 
+372:         mām evaiṣyasy asaṁśayaḥ</div>
+373: 
+374: 
+375: 
+376:     <div class="word-mean"><i class="calibre17">tasmāt—</i>therefore; <i class="calibre17">sarveṣu—</i>always; <i class="calibre17">kāleṣu—</i>time; <i class="calibre17">mām—</i>unto Me; <i class="calibre17">anusmara—</i>go on remembering; <i class="calibre17">yudhya—</i>fight; <i class="calibre17">ca—</i>also; <i class="calibre17">mayi—</i>unto Me; <i class="calibre17">arpita—</i>surrender; <i class="calibre17">manaḥ—</i>mind; <i class="calibre17">buddhiḥ—</i>intellect; <i class="calibre17">mām—</i>unto Me; <i class="calibre17">eva— </i>surely; <i class="calibre17">eṣyasi—</i>will attain; <i class="calibre17">asaṁśayaḥ—</i>beyond a doubt.</div>
+377: 
+378: 
+379: 
+380:   <div class="verse-hed1">TRANSLATION</div>
+381: 
+382: 
+383: 
+384:  <div class="data-trs">Therefore, Arjuna, you should always think of Me in the form of Kṛṣṇa and at the same time carry out your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt.</div>
+385: 
+386: 
+387: 
+388:   <div class="verse-hed1">PURPORT</div>
+389: 
+390: 
+391: 
+392:    <div class="purport">This instruction to Arjuna is very important for all men engaged in material activities. The Lord does not say that one should give up his prescribed duties or engagements. One can continue them and at the same time think of Kṛṣṇa by chanting Hare Kṛṣṇa. This will free one from material contamination and engage the mind and intelligence in Kṛṣṇa. By chanting Kṛṣṇa's names, one will be transferred to the supreme planet, Kṛṣṇaloka, without a doubt.</div>
+393: 
+394: 
+395:     </div>
+396:     
+397:     <div class="calibre5">
+398: 
+399: 
+400:     <div class="verse-text">       TEXT 8        </div>
+401: 
+402: 
+403: 
+404: <div class="verse"> अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।<br class="calibre14"/>
+405: 
+406:                     परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥८॥</div>
+407: 
+408: 
+409: 
+410:    
+411: 
+412: <div class="verse-trs4">    abhyāsa-yoga-yuktena</div><div class="verse-trs5">
+413: 
+414:         cetasā nānya-gāminā</div><div class="verse-trs4">
+415: 
+416: 
+417: 
+418:     paramaṁ puruṣaṁ divyaṁ</div><div class="verse-trs5">
+419: 
+420:         yāti pārthānucintayan</div>
+421: 
+422: 
+423: 
+424:     <div class="word-mean"><i class="calibre17">abhyāsa—</i>practice; <i class="calibre17">yoga-yuktena—</i>being engaged in meditation; <i class="calibre17">cetasā— </i>by the mind and intelligence; <i class="calibre17">na anya-gāminā—</i>without being deviated; <i class="calibre17">paramam—</i>the Supreme; <i class="calibre17">puruṣam—</i>Personality of Godhead; <i class="calibre17">divyam— </i>transcendental; <i class="calibre17">yāti—</i>achieves; <i class="calibre17">pārtha</i>—O son of Pṛthā; <i class="calibre17">anucintayan—</i>constantly thinking of.</div>
+425: 
+426: 
+427: 
+428:   <div class="verse-hed1">TRANSLATION</div>
+429: 
+430: 
+431: 
+432:  <div class="data-trs">He who meditates on the Supreme Personality of Godhead, his mind constantly engaged in remembering Me, undeviated from the path, he, O Pārtha [Arjuna], is sure to reach Me.</div>
+433: 
+434: 
+435: 
+436:   <div class="verse-hed1">PURPORT</div>
+437: 
+438: 
+439: 
+440:    <div class="purport">In this verse Lord Kṛṣṇa stresses the importance of remembering Him. One's memory of Kṛṣṇa is revived by chanting the <i class="calibre17">mahāmantra, </i>Hare Kṛṣṇa. By this practice of chanting and hearing the sound vibration of the Supreme Lord, one's ear, tongue and mind are engaged. This mystic meditation is very easy to practice, and it helps one attain the Supreme Lord. <i class="calibre17">Puruṣam </i>means enjoyer. Although living entities belong to the marginal energy of the Supreme Lord, they are in material contamination. They think themselves enjoyers, but they are not the supreme enjoyer. Here it is clearly stated that the supreme enjoyer is the Supreme Personality of Godhead in His different manifestations and plenary expansions as Nārāyaṇa, Vāsudeva, etc.</div>
+441: 
+442: 
+443: 
+444:    <div class="purport">The devotees can constantly think of the object of worship, the Supreme Lord, in any of His features, Nārāyaṇa, Kṛṣṇa, Rāma, etc., by chanting Hare Kṛṣṇa. This practice will purify him, and at the end of his life, due to his constant chanting, he will be transferred to the kingdom of God. <i class="calibre17">Yoga </i>practice is meditation on the Supersoul within; similarly, by chanting Hare Kṛṣṇa one fixes his mind always on the Supreme Lord. The mind is fickle, and therefore it is necessary to engage the mind by force to think of Kṛṣṇa. One example often given is that of the caterpillar that thinks of becoming a butterfly and so is transformed into a butterfly in the same life. Similarly, if we constantly think of Kṛṣṇa, it is certain that at the end of our lives we shall have the same bodily constitution as Kṛṣṇa.</div>
+445: 
+446: 
+447:     </div>
+448:     
+449:     <div class="calibre5">
+450: 
+451: 
+452:     <div class="verse-text">       TEXT 9        </div>
+453: 
+454: 
+455: 
+456: <div class="verse">     कविं पुराणमनुशासितार-<br class="calibre14"/><span class="calibre39"> 
+457:                         
+458:                         मणोरणीयंसमनुस्मरेद्यः ।<br class="calibre14"/></span>
+459: 
+460:                         सर्वस्य धातारमचिन्त्यरूप-<br class="calibre14"/> 
+461:                         
+462:                    <span class="calibre39">     मादित्यवर्णं तमसः परस्तात् ॥९॥</span></div>
+463: 
+464: 
+465: 
+466:   <div class="calibre40">
+467: 
+468: <div class="verse-trs4">    kaviṁ purāṇam anuśāsitāram</div><div class="verse-trs5">
+469: 
+470:         aṇor aṇīyāṁsam anusmared yaḥ</div><div class="verse-trs4">
+471: 
+472: 
+473: 
+474:     sarvasya dhātāram acintya-rūpam</div><div class="verse-trs5">
+475: 
+476:         āditya-varṇaṁ tamasaḥ parastāt</div>
+477: 
+478: </div>
+479: 
+480:     <div class="word-mean"><i class="calibre17">kavim—</i>one who knows everything; <i class="calibre17">purāṇam</i>—the oldest; <i class="calibre17">anuśāsitāram— </i>the controller; <i class="calibre17">aṇoḥ—</i>of the atom; <i class="calibre17">aṇīyāṁsam</i>—smaller than; <i class="calibre17">anusmaret</i>— always thinking; <i class="calibre17">yaḥ</i>—one who; <i class="calibre17">sarvasya</i>—of everything; <i class="calibre17">dhātāram—</i>maintainer; <i class="calibre17">acintya</i>—inconceivable; <i class="calibre17">rūpam</i>—form; <i class="calibre17">āditya-varṇam—</i>illuminated like the sun; <i class="calibre17">tamasaḥ</i>—of the darkness; <i class="calibre17">parastāt</i>—transcendental.</div>
+481: 
+482: 
+483: 
+484:   <div class="verse-hed1">TRANSLATION</div>
+485: 
+486: 
+487: 
+488:  <div class="data-trs">One should meditate upon the Supreme Person as the one who knows everything, as He who is the oldest, who is the controller, who is smaller than the smallest, who is the maintainer of everything, who is beyond all material conception, who is inconceivable, and who is always a person. He is luminous like the sun and, being transcendental, is beyond this material nature.</div>
+489: 
+490: 
+491: 
+492:   <div class="verse-hed1">PURPORT</div>
+493: 
+494: 
+495: 
+496:    <div class="purport">The process of thinking of the Supreme is mentioned in this verse. The foremost point is that He is not impersonal or void. One cannot meditate on something impersonal or void. That is very difficult. The process of thinking of Kṛṣṇa, however, is very easy and is factually stated herein. First of all, He is <i class="calibre17">puruṣa, </i>spiritual, Rāma and Kṛṣṇa, and is described herein as <i class="calibre17">kavim; </i>that is, He knows past, present and future and therefore knows everything. He is the oldest personality because He is the origin of everything; everything is born out of Him. He is also the supreme controller of the universe, maintainer and instructor of humanity. He is smaller than the smallest. The living entity is one 10,000th part of the tip of a hair, but the Lord is so inconceivably small that He enters into the heart of this particle. Therefore He is called smaller than the smallest. As the Supreme, He can enter into the atom and into the heart of the smallest and control him as the Supersoul. Although so small, He is still all-pervading and is maintaining everything. By Him all these planetary systems are sustained. We often wonder how these big planets are floating in the air. It is stated here that the Supreme Lord, by His inconceivable energy, is sustaining all these big planets and systems of galaxies. The word <i class="calibre17">acintya </i>(inconceivable) is very significant in this connection. God's energy is beyond our conception, beyond our thinking jurisdiction, and is therefore called inconceivable <i class="calibre17">(acintya). </i>Who can argue this point? He pervades this material world and yet is beyond it. We cannot even comprehend this material world, which is insignificant compared to the spiritual world–so how can we comprehend what is beyond? <i class="calibre17">Acintya </i>means that which is beyond this material world, that which our argument, logic and philosophical speculation cannot touch, that which is inconceivable. Therefore intelligent persons, avoiding useless argument and speculation, should accept what is stated in scriptures like the <i class="calibre17">Vedas, Gītā, </i>and <i class="calibre17">Śrīmad-Bhāgavatam </i>and follow the principles they set down. This will lead one to understanding.</div>
+497: 
+498: 
+499:     </div>
+500:     

@@ -1,0 +1,5602 @@
+{
+  "BG 1.1": {
+    "chapter": 1,
+    "verse": "1",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 943
+  },
+  "BG 1.2": {
+    "chapter": 1,
+    "verse": "2",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 6720
+  },
+  "BG 1.3": {
+    "chapter": 1,
+    "verse": "3",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 9558
+  },
+  "BG 1.4": {
+    "chapter": 1,
+    "verse": "4",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 12260
+  },
+  "BG 1.5": {
+    "chapter": 1,
+    "verse": "5",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 14249
+  },
+  "BG 1.6": {
+    "chapter": 1,
+    "verse": "6",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 15641
+  },
+  "BG 1.7": {
+    "chapter": 1,
+    "verse": "7",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 17141
+  },
+  "BG 1.8": {
+    "chapter": 1,
+    "verse": "8",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 18709
+  },
+  "BG 1.9": {
+    "chapter": 1,
+    "verse": "9",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 20806
+  },
+  "BG 1.10": {
+    "chapter": 1,
+    "verse": "10",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 22811
+  },
+  "BG 1.11": {
+    "chapter": 1,
+    "verse": "11",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 25192
+  },
+  "BG 1.12": {
+    "chapter": 1,
+    "verse": "12",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 28076
+  },
+  "BG 1.13": {
+    "chapter": 1,
+    "verse": "13",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 30282
+  },
+  "BG 1.14": {
+    "chapter": 1,
+    "verse": "14",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 31836
+  },
+  "BG 1.15": {
+    "chapter": 1,
+    "verse": "15",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 34579
+  },
+  "BG 1.16": {
+    "chapter": 1,
+    "verse": "16",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "16-18",
+    "position": 38523
+  },
+  "BG 1.17": {
+    "chapter": 1,
+    "verse": "17",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "16-18",
+    "position": 38523
+  },
+  "BG 1.18": {
+    "chapter": 1,
+    "verse": "18",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "16-18",
+    "position": 38523
+  },
+  "BG 1.19": {
+    "chapter": 1,
+    "verse": "19",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 43009
+  },
+  "BG 1.20": {
+    "chapter": 1,
+    "verse": "20",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 45139
+  },
+  "BG 1.21": {
+    "chapter": 1,
+    "verse": "21",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "21-22",
+    "position": 48354
+  },
+  "BG 1.22": {
+    "chapter": 1,
+    "verse": "22",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "21-22",
+    "position": 48354
+  },
+  "BG 1.23": {
+    "chapter": 1,
+    "verse": "23",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 52497
+  },
+  "BG 1.24": {
+    "chapter": 1,
+    "verse": "24",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 54638
+  },
+  "BG 1.25": {
+    "chapter": 1,
+    "verse": "25",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 57184
+  },
+  "BG 1.26": {
+    "chapter": 1,
+    "verse": "26",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 59598
+  },
+  "BG 1.27": {
+    "chapter": 1,
+    "verse": "27",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 62275
+  },
+  "BG 1.28": {
+    "chapter": 1,
+    "verse": "28",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 63797
+  },
+  "BG 1.29": {
+    "chapter": 1,
+    "verse": "29",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 67535
+  },
+  "BG 1.30": {
+    "chapter": 1,
+    "verse": "30",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 69778
+  },
+  "BG 1.31": {
+    "chapter": 1,
+    "verse": "31",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 72463
+  },
+  "BG 1.32": {
+    "chapter": 1,
+    "verse": "32",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "32-35",
+    "position": 75662
+  },
+  "BG 1.33": {
+    "chapter": 1,
+    "verse": "33",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "32-35",
+    "position": 75662
+  },
+  "BG 1.34": {
+    "chapter": 1,
+    "verse": "34",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "32-35",
+    "position": 75662
+  },
+  "BG 1.35": {
+    "chapter": 1,
+    "verse": "35",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "32-35",
+    "position": 75662
+  },
+  "BG 1.36": {
+    "chapter": 1,
+    "verse": "36",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "36",
+    "position": 83368
+  },
+  "BG 1.37": {
+    "chapter": 1,
+    "verse": "37",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "37-38",
+    "position": 87962
+  },
+  "BG 1.38": {
+    "chapter": 1,
+    "verse": "38",
+    "file": "text/part0013.html",
+    "type": "merged",
+    "parent_marker": "37-38",
+    "position": 87962
+  },
+  "BG 1.39": {
+    "chapter": 1,
+    "verse": "39",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "39",
+    "position": 91239
+  },
+  "BG 1.40": {
+    "chapter": 1,
+    "verse": "40",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "40",
+    "position": 93429
+  },
+  "BG 1.41": {
+    "chapter": 1,
+    "verse": "41",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "41",
+    "position": 96355
+  },
+  "BG 1.42": {
+    "chapter": 1,
+    "verse": "42",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "42",
+    "position": 100051
+  },
+  "BG 1.43": {
+    "chapter": 1,
+    "verse": "43",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "43",
+    "position": 102204
+  },
+  "BG 1.44": {
+    "chapter": 1,
+    "verse": "44",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "44",
+    "position": 104434
+  },
+  "BG 1.45": {
+    "chapter": 1,
+    "verse": "45",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "45",
+    "position": 106361
+  },
+  "BG 1.46": {
+    "chapter": 1,
+    "verse": "46",
+    "file": "text/part0013.html",
+    "type": "single",
+    "parent_marker": "46",
+    "position": 108394
+  },
+  "BG 2.1": {
+    "chapter": 2,
+    "verse": "1",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 946
+  },
+  "BG 2.2": {
+    "chapter": 2,
+    "verse": "2",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 3915
+  },
+  "BG 2.3": {
+    "chapter": 2,
+    "verse": "3",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 12116
+  },
+  "BG 2.4": {
+    "chapter": 2,
+    "verse": "4",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 15108
+  },
+  "BG 2.5": {
+    "chapter": 2,
+    "verse": "5",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 17348
+  },
+  "BG 2.6": {
+    "chapter": 2,
+    "verse": "6",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 20219
+  },
+  "BG 2.7": {
+    "chapter": 2,
+    "verse": "7",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 23877
+  },
+  "BG 2.8": {
+    "chapter": 2,
+    "verse": "8",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 30165
+  },
+  "BG 2.9": {
+    "chapter": 2,
+    "verse": "9",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 36624
+  },
+  "BG 2.10": {
+    "chapter": 2,
+    "verse": "10",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 39211
+  },
+  "BG 2.11": {
+    "chapter": 2,
+    "verse": "11",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 41785
+  },
+  "BG 2.12": {
+    "chapter": 2,
+    "verse": "12",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 44892
+  },
+  "BG 2.13": {
+    "chapter": 2,
+    "verse": "13",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 52270
+  },
+  "BG 2.14": {
+    "chapter": 2,
+    "verse": "14",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 57509
+  },
+  "BG 2.15": {
+    "chapter": 2,
+    "verse": "15",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 60887
+  },
+  "BG 2.16": {
+    "chapter": 2,
+    "verse": "16",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 63739
+  },
+  "BG 2.17": {
+    "chapter": 2,
+    "verse": "17",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 67749
+  },
+  "BG 2.18": {
+    "chapter": 2,
+    "verse": "18",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 74809
+  },
+  "BG 2.19": {
+    "chapter": 2,
+    "verse": "19",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 77583
+  },
+  "BG 2.20": {
+    "chapter": 2,
+    "verse": "20",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 80118
+  },
+  "BG 2.21": {
+    "chapter": 2,
+    "verse": "21",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 87169
+  },
+  "BG 2.22": {
+    "chapter": 2,
+    "verse": "22",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 90075
+  },
+  "BG 2.23": {
+    "chapter": 2,
+    "verse": "23",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 95371
+  },
+  "BG 2.24": {
+    "chapter": 2,
+    "verse": "24",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 98671
+  },
+  "BG 2.25": {
+    "chapter": 2,
+    "verse": "25",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 101528
+  },
+  "BG 2.26": {
+    "chapter": 2,
+    "verse": "26",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 104764
+  },
+  "BG 2.27": {
+    "chapter": 2,
+    "verse": "27",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 108867
+  },
+  "BG 2.28": {
+    "chapter": 2,
+    "verse": "28",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 111572
+  },
+  "BG 2.29": {
+    "chapter": 2,
+    "verse": "29",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 115438
+  },
+  "BG 2.30": {
+    "chapter": 2,
+    "verse": "30",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 120585
+  },
+  "BG 2.31": {
+    "chapter": 2,
+    "verse": "31",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 123034
+  },
+  "BG 2.32": {
+    "chapter": 2,
+    "verse": "32",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "32",
+    "position": 128277
+  },
+  "BG 2.33": {
+    "chapter": 2,
+    "verse": "33",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "33",
+    "position": 131228
+  },
+  "BG 2.34": {
+    "chapter": 2,
+    "verse": "34",
+    "file": "text/part0014.html",
+    "type": "single",
+    "parent_marker": "34",
+    "position": 133676
+  },
+  "BG 2.35": {
+    "chapter": 2,
+    "verse": "35",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "35",
+    "position": 572
+  },
+  "BG 2.36": {
+    "chapter": 2,
+    "verse": "36",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "36",
+    "position": 2492
+  },
+  "BG 2.37": {
+    "chapter": 2,
+    "verse": "37",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "37",
+    "position": 4237
+  },
+  "BG 2.38": {
+    "chapter": 2,
+    "verse": "38",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "38",
+    "position": 6030
+  },
+  "BG 2.39": {
+    "chapter": 2,
+    "verse": "39",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "39",
+    "position": 9106
+  },
+  "BG 2.40": {
+    "chapter": 2,
+    "verse": "40",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "40",
+    "position": 17987
+  },
+  "BG 2.41": {
+    "chapter": 2,
+    "verse": "41",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "41",
+    "position": 21909
+  },
+  "BG 2.42": {
+    "chapter": 2,
+    "verse": "42",
+    "file": "text/part0015.html",
+    "type": "merged",
+    "parent_marker": "42-43",
+    "position": 26833
+  },
+  "BG 2.43": {
+    "chapter": 2,
+    "verse": "43",
+    "file": "text/part0015.html",
+    "type": "merged",
+    "parent_marker": "42-43",
+    "position": 26833
+  },
+  "BG 2.44": {
+    "chapter": 2,
+    "verse": "44",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "44",
+    "position": 31607
+  },
+  "BG 2.45": {
+    "chapter": 2,
+    "verse": "45",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "45",
+    "position": 33639
+  },
+  "BG 2.46": {
+    "chapter": 2,
+    "verse": "46",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "46",
+    "position": 37184
+  },
+  "BG 2.47": {
+    "chapter": 2,
+    "verse": "47",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "47",
+    "position": 42252
+  },
+  "BG 2.48": {
+    "chapter": 2,
+    "verse": "48",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "48",
+    "position": 45592
+  },
+  "BG 2.49": {
+    "chapter": 2,
+    "verse": "49",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "49",
+    "position": 48615
+  },
+  "BG 2.50": {
+    "chapter": 2,
+    "verse": "50",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "50",
+    "position": 51230
+  },
+  "BG 2.51": {
+    "chapter": 2,
+    "verse": "51",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "51",
+    "position": 53302
+  },
+  "BG 2.52": {
+    "chapter": 2,
+    "verse": "52",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "52",
+    "position": 57585
+  },
+  "BG 2.53": {
+    "chapter": 2,
+    "verse": "53",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "53",
+    "position": 61515
+  },
+  "BG 2.54": {
+    "chapter": 2,
+    "verse": "54",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "54",
+    "position": 64084
+  },
+  "BG 2.55": {
+    "chapter": 2,
+    "verse": "55",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "55",
+    "position": 66841
+  },
+  "BG 2.56": {
+    "chapter": 2,
+    "verse": "56",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "56",
+    "position": 69889
+  },
+  "BG 2.57": {
+    "chapter": 2,
+    "verse": "57",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "57",
+    "position": 73438
+  },
+  "BG 2.58": {
+    "chapter": 2,
+    "verse": "58",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "58",
+    "position": 75640
+  },
+  "BG 2.59": {
+    "chapter": 2,
+    "verse": "59",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "59",
+    "position": 78475
+  },
+  "BG 2.60": {
+    "chapter": 2,
+    "verse": "60",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "60",
+    "position": 81138
+  },
+  "BG 2.61": {
+    "chapter": 2,
+    "verse": "61",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "61",
+    "position": 84100
+  },
+  "BG 2.62": {
+    "chapter": 2,
+    "verse": "62",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "62",
+    "position": 89432
+  },
+  "BG 2.63": {
+    "chapter": 2,
+    "verse": "63",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "63",
+    "position": 92373
+  },
+  "BG 2.64": {
+    "chapter": 2,
+    "verse": "64",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "64",
+    "position": 95339
+  },
+  "BG 2.65": {
+    "chapter": 2,
+    "verse": "65",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "65",
+    "position": 97842
+  },
+  "BG 2.66": {
+    "chapter": 2,
+    "verse": "66",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "66",
+    "position": 99320
+  },
+  "BG 2.67": {
+    "chapter": 2,
+    "verse": "67",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "67",
+    "position": 102010
+  },
+  "BG 2.68": {
+    "chapter": 2,
+    "verse": "68",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "68",
+    "position": 103889
+  },
+  "BG 2.69": {
+    "chapter": 2,
+    "verse": "69",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "69",
+    "position": 105788
+  },
+  "BG 2.70": {
+    "chapter": 2,
+    "verse": "70",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "70",
+    "position": 108257
+  },
+  "BG 2.71": {
+    "chapter": 2,
+    "verse": "71",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "71",
+    "position": 111848
+  },
+  "BG 2.72": {
+    "chapter": 2,
+    "verse": "72",
+    "file": "text/part0015.html",
+    "type": "single",
+    "parent_marker": "72",
+    "position": 115028
+  },
+  "BG 3.1": {
+    "chapter": 3,
+    "verse": "1",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 891
+  },
+  "BG 3.2": {
+    "chapter": 3,
+    "verse": "2",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 3985
+  },
+  "BG 3.3": {
+    "chapter": 3,
+    "verse": "3",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 6479
+  },
+  "BG 3.4": {
+    "chapter": 3,
+    "verse": "4",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 10475
+  },
+  "BG 3.5": {
+    "chapter": 3,
+    "verse": "5",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 12970
+  },
+  "BG 3.6": {
+    "chapter": 3,
+    "verse": "6",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 16621
+  },
+  "BG 3.7": {
+    "chapter": 3,
+    "verse": "7",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 19081
+  },
+  "BG 3.8": {
+    "chapter": 3,
+    "verse": "8",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 21651
+  },
+  "BG 3.9": {
+    "chapter": 3,
+    "verse": "9",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 24554
+  },
+  "BG 3.10": {
+    "chapter": 3,
+    "verse": "10",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 28082
+  },
+  "BG 3.11": {
+    "chapter": 3,
+    "verse": "11",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 33087
+  },
+  "BG 3.12": {
+    "chapter": 3,
+    "verse": "12",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 36787
+  },
+  "BG 3.13": {
+    "chapter": 3,
+    "verse": "13",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 42059
+  },
+  "BG 3.14": {
+    "chapter": 3,
+    "verse": "14",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 45146
+  },
+  "BG 3.15": {
+    "chapter": 3,
+    "verse": "15",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 50024
+  },
+  "BG 3.16": {
+    "chapter": 3,
+    "verse": "16",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 54294
+  },
+  "BG 3.17": {
+    "chapter": 3,
+    "verse": "17",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 57878
+  },
+  "BG 3.18": {
+    "chapter": 3,
+    "verse": "18",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 60264
+  },
+  "BG 3.19": {
+    "chapter": 3,
+    "verse": "19",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 62322
+  },
+  "BG 3.20": {
+    "chapter": 3,
+    "verse": "20",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 64912
+  },
+  "BG 3.21": {
+    "chapter": 3,
+    "verse": "21",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 67646
+  },
+  "BG 3.22": {
+    "chapter": 3,
+    "verse": "22",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 70598
+  },
+  "BG 3.23": {
+    "chapter": 3,
+    "verse": "23",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 74770
+  },
+  "BG 3.24": {
+    "chapter": 3,
+    "verse": "24",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 76887
+  },
+  "BG 3.25": {
+    "chapter": 3,
+    "verse": "25",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 81614
+  },
+  "BG 3.26": {
+    "chapter": 3,
+    "verse": "26",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 83810
+  },
+  "BG 3.27": {
+    "chapter": 3,
+    "verse": "27",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 86651
+  },
+  "BG 3.28": {
+    "chapter": 3,
+    "verse": "28",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 89359
+  },
+  "BG 3.29": {
+    "chapter": 3,
+    "verse": "29",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 92197
+  },
+  "BG 3.30": {
+    "chapter": 3,
+    "verse": "30",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 95503
+  },
+  "BG 3.31": {
+    "chapter": 3,
+    "verse": "31",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 99325
+  },
+  "BG 3.32": {
+    "chapter": 3,
+    "verse": "32",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "32",
+    "position": 101920
+  },
+  "BG 3.33": {
+    "chapter": 3,
+    "verse": "33",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "33",
+    "position": 104016
+  },
+  "BG 3.34": {
+    "chapter": 3,
+    "verse": "34",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "34",
+    "position": 106733
+  },
+  "BG 3.35": {
+    "chapter": 3,
+    "verse": "35",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "35",
+    "position": 110441
+  },
+  "BG 3.36": {
+    "chapter": 3,
+    "verse": "36",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "36",
+    "position": 114329
+  },
+  "BG 3.37": {
+    "chapter": 3,
+    "verse": "37",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "37",
+    "position": 116621
+  },
+  "BG 3.38": {
+    "chapter": 3,
+    "verse": "38",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "38",
+    "position": 120888
+  },
+  "BG 3.39": {
+    "chapter": 3,
+    "verse": "39",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "39",
+    "position": 124251
+  },
+  "BG 3.40": {
+    "chapter": 3,
+    "verse": "40",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "40",
+    "position": 126604
+  },
+  "BG 3.41": {
+    "chapter": 3,
+    "verse": "41",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "41",
+    "position": 129783
+  },
+  "BG 3.42": {
+    "chapter": 3,
+    "verse": "42",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "42",
+    "position": 133532
+  },
+  "BG 3.43": {
+    "chapter": 3,
+    "verse": "43",
+    "file": "text/part0016.html",
+    "type": "single",
+    "parent_marker": "43",
+    "position": 137949
+  },
+  "BG 4.1": {
+    "chapter": 4,
+    "verse": "1",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 896
+  },
+  "BG 4.2": {
+    "chapter": 4,
+    "verse": "2",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 8486
+  },
+  "BG 4.3": {
+    "chapter": 4,
+    "verse": "3",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 11968
+  },
+  "BG 4.4": {
+    "chapter": 4,
+    "verse": "4",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 14729
+  },
+  "BG 4.5": {
+    "chapter": 4,
+    "verse": "5",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 19068
+  },
+  "BG 4.6": {
+    "chapter": 4,
+    "verse": "6",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 25793
+  },
+  "BG 4.7": {
+    "chapter": 4,
+    "verse": "7",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 31667
+  },
+  "BG 4.8": {
+    "chapter": 4,
+    "verse": "8",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 37568
+  },
+  "BG 4.9": {
+    "chapter": 4,
+    "verse": "9",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 43570
+  },
+  "BG 4.10": {
+    "chapter": 4,
+    "verse": "10",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 49033
+  },
+  "BG 4.11": {
+    "chapter": 4,
+    "verse": "11",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 55428
+  },
+  "BG 4.12": {
+    "chapter": 4,
+    "verse": "12",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 60095
+  },
+  "BG 4.13": {
+    "chapter": 4,
+    "verse": "13",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 65034
+  },
+  "BG 4.14": {
+    "chapter": 4,
+    "verse": "14",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 69038
+  },
+  "BG 4.15": {
+    "chapter": 4,
+    "verse": "15",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 73971
+  },
+  "BG 4.16": {
+    "chapter": 4,
+    "verse": "16",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 77253
+  },
+  "BG 4.17": {
+    "chapter": 4,
+    "verse": "17",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 80914
+  },
+  "BG 4.18": {
+    "chapter": 4,
+    "verse": "18",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 83563
+  },
+  "BG 4.19": {
+    "chapter": 4,
+    "verse": "19",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 86272
+  },
+  "BG 4.20": {
+    "chapter": 4,
+    "verse": "20",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 88604
+  },
+  "BG 4.21": {
+    "chapter": 4,
+    "verse": "21",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 91204
+  },
+  "BG 4.22": {
+    "chapter": 4,
+    "verse": "22",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 94373
+  },
+  "BG 4.23": {
+    "chapter": 4,
+    "verse": "23",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 96958
+  },
+  "BG 4.24": {
+    "chapter": 4,
+    "verse": "24",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 99051
+  },
+  "BG 4.25": {
+    "chapter": 4,
+    "verse": "25",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 103514
+  },
+  "BG 4.26": {
+    "chapter": 4,
+    "verse": "26",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 107828
+  },
+  "BG 4.27": {
+    "chapter": 4,
+    "verse": "27",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 111259
+  },
+  "BG 4.28": {
+    "chapter": 4,
+    "verse": "28",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 114391
+  },
+  "BG 4.29": {
+    "chapter": 4,
+    "verse": "29",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 118665
+  },
+  "BG 4.30": {
+    "chapter": 4,
+    "verse": "30",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 123202
+  },
+  "BG 4.31": {
+    "chapter": 4,
+    "verse": "31",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 125941
+  },
+  "BG 4.32": {
+    "chapter": 4,
+    "verse": "32",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "32",
+    "position": 128921
+  },
+  "BG 4.33": {
+    "chapter": 4,
+    "verse": "33",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "33",
+    "position": 130960
+  },
+  "BG 4.34": {
+    "chapter": 4,
+    "verse": "34",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "34",
+    "position": 133918
+  },
+  "BG 4.35": {
+    "chapter": 4,
+    "verse": "35",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "35",
+    "position": 137532
+  },
+  "BG 4.36": {
+    "chapter": 4,
+    "verse": "36",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "36",
+    "position": 142781
+  },
+  "BG 4.37": {
+    "chapter": 4,
+    "verse": "37",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "37",
+    "position": 144981
+  },
+  "BG 4.38": {
+    "chapter": 4,
+    "verse": "38",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "38",
+    "position": 147322
+  },
+  "BG 4.39": {
+    "chapter": 4,
+    "verse": "39",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "39",
+    "position": 149535
+  },
+  "BG 4.40": {
+    "chapter": 4,
+    "verse": "40",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "40",
+    "position": 151726
+  },
+  "BG 4.41": {
+    "chapter": 4,
+    "verse": "41",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "41",
+    "position": 154798
+  },
+  "BG 4.42": {
+    "chapter": 4,
+    "verse": "42",
+    "file": "text/part0017.html",
+    "type": "single",
+    "parent_marker": "42",
+    "position": 156787
+  },
+  "BG 5.1": {
+    "chapter": 5,
+    "verse": "1",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 965
+  },
+  "BG 5.2": {
+    "chapter": 5,
+    "verse": "2",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 4550
+  },
+  "BG 5.3": {
+    "chapter": 5,
+    "verse": "3",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 10396
+  },
+  "BG 5.4": {
+    "chapter": 5,
+    "verse": "4",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 13110
+  },
+  "BG 5.5": {
+    "chapter": 5,
+    "verse": "5",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 15618
+  },
+  "BG 5.6": {
+    "chapter": 5,
+    "verse": "6",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 18503
+  },
+  "BG 5.7": {
+    "chapter": 5,
+    "verse": "7",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 22529
+  },
+  "BG 5.8": {
+    "chapter": 5,
+    "verse": "8",
+    "file": "text/part0018.html",
+    "type": "merged",
+    "parent_marker": "8-9",
+    "position": 26044
+  },
+  "BG 5.9": {
+    "chapter": 5,
+    "verse": "9",
+    "file": "text/part0018.html",
+    "type": "merged",
+    "parent_marker": "8-9",
+    "position": 26044
+  },
+  "BG 5.10": {
+    "chapter": 5,
+    "verse": "10",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 30006
+  },
+  "BG 5.11": {
+    "chapter": 5,
+    "verse": "11",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 33225
+  },
+  "BG 5.12": {
+    "chapter": 5,
+    "verse": "12",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 36442
+  },
+  "BG 5.13": {
+    "chapter": 5,
+    "verse": "13",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 39258
+  },
+  "BG 5.14": {
+    "chapter": 5,
+    "verse": "14",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 42560
+  },
+  "BG 5.15": {
+    "chapter": 5,
+    "verse": "15",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 45449
+  },
+  "BG 5.16": {
+    "chapter": 5,
+    "verse": "16",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 50697
+  },
+  "BG 5.17": {
+    "chapter": 5,
+    "verse": "17",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 54675
+  },
+  "BG 5.18": {
+    "chapter": 5,
+    "verse": "18",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 57438
+  },
+  "BG 5.19": {
+    "chapter": 5,
+    "verse": "19",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 60835
+  },
+  "BG 5.20": {
+    "chapter": 5,
+    "verse": "20",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 63454
+  },
+  "BG 5.21": {
+    "chapter": 5,
+    "verse": "21",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 66169
+  },
+  "BG 5.22": {
+    "chapter": 5,
+    "verse": "22",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 69211
+  },
+  "BG 5.23": {
+    "chapter": 5,
+    "verse": "23",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 72831
+  },
+  "BG 5.24": {
+    "chapter": 5,
+    "verse": "24",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 75374
+  },
+  "BG 5.25": {
+    "chapter": 5,
+    "verse": "25",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 77440
+  },
+  "BG 5.26": {
+    "chapter": 5,
+    "verse": "26",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 80272
+  },
+  "BG 5.27": {
+    "chapter": 5,
+    "verse": "27",
+    "file": "text/part0018.html",
+    "type": "merged",
+    "parent_marker": "27-28",
+    "position": 84350
+  },
+  "BG 5.28": {
+    "chapter": 5,
+    "verse": "28",
+    "file": "text/part0018.html",
+    "type": "merged",
+    "parent_marker": "27-28",
+    "position": 84350
+  },
+  "BG 5.29": {
+    "chapter": 5,
+    "verse": "29",
+    "file": "text/part0018.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 89847
+  },
+  "BG 6.1": {
+    "chapter": 6,
+    "verse": "1",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 875
+  },
+  "BG 6.2": {
+    "chapter": 6,
+    "verse": "2",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 5655
+  },
+  "BG 6.3": {
+    "chapter": 6,
+    "verse": "3",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 9063
+  },
+  "BG 6.4": {
+    "chapter": 6,
+    "verse": "4",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 12275
+  },
+  "BG 6.5": {
+    "chapter": 6,
+    "verse": "5",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 14489
+  },
+  "BG 6.6": {
+    "chapter": 6,
+    "verse": "6",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 17989
+  },
+  "BG 6.7": {
+    "chapter": 6,
+    "verse": "7",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 20569
+  },
+  "BG 6.8": {
+    "chapter": 6,
+    "verse": "8",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 23188
+  },
+  "BG 6.9": {
+    "chapter": 6,
+    "verse": "9",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 26523
+  },
+  "BG 6.10": {
+    "chapter": 6,
+    "verse": "10",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 28142
+  },
+  "BG 6.11": {
+    "chapter": 6,
+    "verse": "11",
+    "file": "text/part0019.html",
+    "type": "merged",
+    "parent_marker": "11-12",
+    "position": 33194
+  },
+  "BG 6.12": {
+    "chapter": 6,
+    "verse": "12",
+    "file": "text/part0019.html",
+    "type": "merged",
+    "parent_marker": "11-12",
+    "position": 33194
+  },
+  "BG 6.13": {
+    "chapter": 6,
+    "verse": "13",
+    "file": "text/part0019.html",
+    "type": "merged",
+    "parent_marker": "13-14",
+    "position": 37518
+  },
+  "BG 6.14": {
+    "chapter": 6,
+    "verse": "14",
+    "file": "text/part0019.html",
+    "type": "merged",
+    "parent_marker": "13-14",
+    "position": 37518
+  },
+  "BG 6.15": {
+    "chapter": 6,
+    "verse": "15",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 44766
+  },
+  "BG 6.16": {
+    "chapter": 6,
+    "verse": "16",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 48920
+  },
+  "BG 6.17": {
+    "chapter": 6,
+    "verse": "17",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 52690
+  },
+  "BG 6.18": {
+    "chapter": 6,
+    "verse": "18",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 56034
+  },
+  "BG 6.19": {
+    "chapter": 6,
+    "verse": "19",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 60943
+  },
+  "BG 6.20": {
+    "chapter": 6,
+    "verse": "20",
+    "file": "text/part0019.html",
+    "type": "merged",
+    "parent_marker": "20-23",
+    "position": 62648
+  },
+  "BG 6.21": {
+    "chapter": 6,
+    "verse": "21",
+    "file": "text/part0019.html",
+    "type": "merged",
+    "parent_marker": "20-23",
+    "position": 62648
+  },
+  "BG 6.22": {
+    "chapter": 6,
+    "verse": "22",
+    "file": "text/part0019.html",
+    "type": "merged",
+    "parent_marker": "20-23",
+    "position": 62648
+  },
+  "BG 6.23": {
+    "chapter": 6,
+    "verse": "23",
+    "file": "text/part0019.html",
+    "type": "merged",
+    "parent_marker": "20-23",
+    "position": 62648
+  },
+  "BG 6.24": {
+    "chapter": 6,
+    "verse": "24",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 74187
+  },
+  "BG 6.25": {
+    "chapter": 6,
+    "verse": "25",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 78406
+  },
+  "BG 6.26": {
+    "chapter": 6,
+    "verse": "26",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 80525
+  },
+  "BG 6.27": {
+    "chapter": 6,
+    "verse": "27",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 82798
+  },
+  "BG 6.28": {
+    "chapter": 6,
+    "verse": "28",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 84908
+  },
+  "BG 6.29": {
+    "chapter": 6,
+    "verse": "29",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 86747
+  },
+  "BG 6.30": {
+    "chapter": 6,
+    "verse": "30",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 90354
+  },
+  "BG 6.31": {
+    "chapter": 6,
+    "verse": "31",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 93905
+  },
+  "BG 6.32": {
+    "chapter": 6,
+    "verse": "32",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "32",
+    "position": 97748
+  },
+  "BG 6.33": {
+    "chapter": 6,
+    "verse": "33",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "33",
+    "position": 100991
+  },
+  "BG 6.34": {
+    "chapter": 6,
+    "verse": "34",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "34",
+    "position": 104545
+  },
+  "BG 6.35": {
+    "chapter": 6,
+    "verse": "35",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "35",
+    "position": 108020
+  },
+  "BG 6.36": {
+    "chapter": 6,
+    "verse": "36",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "36",
+    "position": 111523
+  },
+  "BG 6.37": {
+    "chapter": 6,
+    "verse": "37",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "37",
+    "position": 114010
+  },
+  "BG 6.38": {
+    "chapter": 6,
+    "verse": "38",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "38",
+    "position": 117892
+  },
+  "BG 6.39": {
+    "chapter": 6,
+    "verse": "39",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "39",
+    "position": 120770
+  },
+  "BG 6.40": {
+    "chapter": 6,
+    "verse": "40",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "40",
+    "position": 123112
+  },
+  "BG 6.41": {
+    "chapter": 6,
+    "verse": "41",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "41",
+    "position": 129291
+  },
+  "BG 6.42": {
+    "chapter": 6,
+    "verse": "42",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "42",
+    "position": 131875
+  },
+  "BG 6.43": {
+    "chapter": 6,
+    "verse": "43",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "43",
+    "position": 134477
+  },
+  "BG 6.44": {
+    "chapter": 6,
+    "verse": "44",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "44",
+    "position": 136865
+  },
+  "BG 6.45": {
+    "chapter": 6,
+    "verse": "45",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "45",
+    "position": 140471
+  },
+  "BG 6.46": {
+    "chapter": 6,
+    "verse": "46",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "46",
+    "position": 143013
+  },
+  "BG 6.47": {
+    "chapter": 6,
+    "verse": "47",
+    "file": "text/part0019.html",
+    "type": "single",
+    "parent_marker": "47",
+    "position": 145946
+  },
+  "BG 7.1": {
+    "chapter": 7,
+    "verse": "1",
+    "file": "text/part0020.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 880
+  },
+  "BG 7.2": {
+    "chapter": 7,
+    "verse": "2",
+    "file": "text/part0020.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 7617
+  },
+  "BG 7.3": {
+    "chapter": 7,
+    "verse": "3",
+    "file": "text/part0020.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 10098
+  },
+  "BG 7.4": {
+    "chapter": 7,
+    "verse": "4",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 5862
+  },
+  "BG 7.5": {
+    "chapter": 7,
+    "verse": "5",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 11672
+  },
+  "BG 7.6": {
+    "chapter": 7,
+    "verse": "6",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 16541
+  },
+  "BG 7.7": {
+    "chapter": 7,
+    "verse": "7",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 19200
+  },
+  "BG 7.8": {
+    "chapter": 7,
+    "verse": "8",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 23660
+  },
+  "BG 7.9": {
+    "chapter": 7,
+    "verse": "9",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 27341
+  },
+  "BG 7.10": {
+    "chapter": 7,
+    "verse": "10",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 29979
+  },
+  "BG 7.11": {
+    "chapter": 7,
+    "verse": "11",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 32909
+  },
+  "BG 7.12": {
+    "chapter": 7,
+    "verse": "12",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 34638
+  },
+  "BG 7.13": {
+    "chapter": 7,
+    "verse": "13",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 37079
+  },
+  "BG 7.14": {
+    "chapter": 7,
+    "verse": "14",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 41176
+  },
+  "BG 7.15": {
+    "chapter": 7,
+    "verse": "15",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 46717
+  },
+  "BG 7.16": {
+    "chapter": 7,
+    "verse": "16",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 60964
+  },
+  "BG 7.17": {
+    "chapter": 7,
+    "verse": "17",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 65584
+  },
+  "BG 7.18": {
+    "chapter": 7,
+    "verse": "18",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 68351
+  },
+  "BG 7.19": {
+    "chapter": 7,
+    "verse": "19",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 71531
+  },
+  "BG 7.20": {
+    "chapter": 7,
+    "verse": "20",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 74631
+  },
+  "BG 7.21": {
+    "chapter": 7,
+    "verse": "21",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 78232
+  },
+  "BG 7.22": {
+    "chapter": 7,
+    "verse": "22",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 82946
+  },
+  "BG 7.23": {
+    "chapter": 7,
+    "verse": "23",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 86001
+  },
+  "BG 7.24": {
+    "chapter": 7,
+    "verse": "24",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 90536
+  },
+  "BG 7.25": {
+    "chapter": 7,
+    "verse": "25",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 97803
+  },
+  "BG 7.26": {
+    "chapter": 7,
+    "verse": "26",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 102050
+  },
+  "BG 7.27": {
+    "chapter": 7,
+    "verse": "27",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 105831
+  },
+  "BG 7.28": {
+    "chapter": 7,
+    "verse": "28",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 108501
+  },
+  "BG 7.29": {
+    "chapter": 7,
+    "verse": "29",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 111672
+  },
+  "BG 7.30": {
+    "chapter": 7,
+    "verse": "30",
+    "file": "text/part0022.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 115173
+  },
+  "BG 8.1": {
+    "chapter": 8,
+    "verse": "1",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 881
+  },
+  "BG 8.2": {
+    "chapter": 8,
+    "verse": "2",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 3602
+  },
+  "BG 8.3": {
+    "chapter": 8,
+    "verse": "3",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 6962
+  },
+  "BG 8.4": {
+    "chapter": 8,
+    "verse": "4",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 11990
+  },
+  "BG 8.5": {
+    "chapter": 8,
+    "verse": "5",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 15331
+  },
+  "BG 8.6": {
+    "chapter": 8,
+    "verse": "6",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 17664
+  },
+  "BG 8.7": {
+    "chapter": 8,
+    "verse": "7",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 19901
+  },
+  "BG 8.8": {
+    "chapter": 8,
+    "verse": "8",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 21929
+  },
+  "BG 8.9": {
+    "chapter": 8,
+    "verse": "9",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 24977
+  },
+  "BG 8.10": {
+    "chapter": 8,
+    "verse": "10",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 29322
+  },
+  "BG 8.11": {
+    "chapter": 8,
+    "verse": "11",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 32414
+  },
+  "BG 8.12": {
+    "chapter": 8,
+    "verse": "12",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 35922
+  },
+  "BG 8.13": {
+    "chapter": 8,
+    "verse": "13",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 38268
+  },
+  "BG 8.14": {
+    "chapter": 8,
+    "verse": "14",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 40552
+  },
+  "BG 8.15": {
+    "chapter": 8,
+    "verse": "15",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 45632
+  },
+  "BG 8.16": {
+    "chapter": 8,
+    "verse": "16",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 47937
+  },
+  "BG 8.17": {
+    "chapter": 8,
+    "verse": "17",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 50687
+  },
+  "BG 8.18": {
+    "chapter": 8,
+    "verse": "18",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 54794
+  },
+  "BG 8.19": {
+    "chapter": 8,
+    "verse": "19",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 57295
+  },
+  "BG 8.20": {
+    "chapter": 8,
+    "verse": "20",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 58662
+  },
+  "BG 8.21": {
+    "chapter": 8,
+    "verse": "21",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 60572
+  },
+  "BG 8.22": {
+    "chapter": 8,
+    "verse": "22",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 63931
+  },
+  "BG 8.23": {
+    "chapter": 8,
+    "verse": "23",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 67513
+  },
+  "BG 8.24": {
+    "chapter": 8,
+    "verse": "24",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 69954
+  },
+  "BG 8.25": {
+    "chapter": 8,
+    "verse": "25",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 72410
+  },
+  "BG 8.26": {
+    "chapter": 8,
+    "verse": "26",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 74387
+  },
+  "BG 8.27": {
+    "chapter": 8,
+    "verse": "27",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 76263
+  },
+  "BG 8.28": {
+    "chapter": 8,
+    "verse": "28",
+    "file": "text/part0023.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 78833
+  },
+  "BG 9.1": {
+    "chapter": 9,
+    "verse": "1",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 881
+  },
+  "BG 9.2": {
+    "chapter": 9,
+    "verse": "2",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 6964
+  },
+  "BG 9.3": {
+    "chapter": 9,
+    "verse": "3",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 21480
+  },
+  "BG 9.4": {
+    "chapter": 9,
+    "verse": "4",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 27332
+  },
+  "BG 9.5": {
+    "chapter": 9,
+    "verse": "5",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 30867
+  },
+  "BG 9.6": {
+    "chapter": 9,
+    "verse": "6",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 34643
+  },
+  "BG 9.7": {
+    "chapter": 9,
+    "verse": "7",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 37994
+  },
+  "BG 9.8": {
+    "chapter": 9,
+    "verse": "8",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 40238
+  },
+  "BG 9.9": {
+    "chapter": 9,
+    "verse": "9",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 43419
+  },
+  "BG 9.10": {
+    "chapter": 9,
+    "verse": "10",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 46102
+  },
+  "BG 9.11": {
+    "chapter": 9,
+    "verse": "11",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 49362
+  },
+  "BG 9.12": {
+    "chapter": 9,
+    "verse": "12",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 59646
+  },
+  "BG 9.13": {
+    "chapter": 9,
+    "verse": "13",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 63472
+  },
+  "BG 9.14": {
+    "chapter": 9,
+    "verse": "14",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 66930
+  },
+  "BG 9.15": {
+    "chapter": 9,
+    "verse": "15",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 71319
+  },
+  "BG 9.16": {
+    "chapter": 9,
+    "verse": "16",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 74392
+  },
+  "BG 9.17": {
+    "chapter": 9,
+    "verse": "17",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 76884
+  },
+  "BG 9.18": {
+    "chapter": 9,
+    "verse": "18",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 80081
+  },
+  "BG 9.19": {
+    "chapter": 9,
+    "verse": "19",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 83522
+  },
+  "BG 9.20": {
+    "chapter": 9,
+    "verse": "20",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 85969
+  },
+  "BG 9.21": {
+    "chapter": 9,
+    "verse": "21",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 89494
+  },
+  "BG 9.22": {
+    "chapter": 9,
+    "verse": "22",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 92443
+  },
+  "BG 9.23": {
+    "chapter": 9,
+    "verse": "23",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 94783
+  },
+  "BG 9.24": {
+    "chapter": 9,
+    "verse": "24",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 97287
+  },
+  "BG 9.25": {
+    "chapter": 9,
+    "verse": "25",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 99815
+  },
+  "BG 9.26": {
+    "chapter": 9,
+    "verse": "26",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 103284
+  },
+  "BG 9.27": {
+    "chapter": 9,
+    "verse": "27",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 108148
+  },
+  "BG 9.28": {
+    "chapter": 9,
+    "verse": "28",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 110757
+  },
+  "BG 9.29": {
+    "chapter": 9,
+    "verse": "29",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 114966
+  },
+  "BG 9.30": {
+    "chapter": 9,
+    "verse": "30",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 119397
+  },
+  "BG 9.31": {
+    "chapter": 9,
+    "verse": "31",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 125095
+  },
+  "BG 9.32": {
+    "chapter": 9,
+    "verse": "32",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "32",
+    "position": 128085
+  },
+  "BG 9.33": {
+    "chapter": 9,
+    "verse": "33",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "33",
+    "position": 131457
+  },
+  "BG 9.34": {
+    "chapter": 9,
+    "verse": "34",
+    "file": "text/part0024.html",
+    "type": "single",
+    "parent_marker": "34",
+    "position": 134265
+  },
+  "BG 10.1": {
+    "chapter": 10,
+    "verse": "1",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 900
+  },
+  "BG 10.2": {
+    "chapter": 10,
+    "verse": "2",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 3984
+  },
+  "BG 10.3": {
+    "chapter": 10,
+    "verse": "3",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 8279
+  },
+  "BG 10.4": {
+    "chapter": 10,
+    "verse": "4",
+    "file": "text/part0025.html",
+    "type": "merged",
+    "parent_marker": "4-5",
+    "position": 14244
+  },
+  "BG 10.5": {
+    "chapter": 10,
+    "verse": "5",
+    "file": "text/part0025.html",
+    "type": "merged",
+    "parent_marker": "4-5",
+    "position": 14244
+  },
+  "BG 10.6": {
+    "chapter": 10,
+    "verse": "6",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 27658
+  },
+  "BG 10.7": {
+    "chapter": 10,
+    "verse": "7",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 30385
+  },
+  "BG 10.8": {
+    "chapter": 10,
+    "verse": "8",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 33488
+  },
+  "BG 10.9": {
+    "chapter": 10,
+    "verse": "9",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 38902
+  },
+  "BG 10.10": {
+    "chapter": 10,
+    "verse": "10",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 43810
+  },
+  "BG 10.11": {
+    "chapter": 10,
+    "verse": "11",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 47866
+  },
+  "BG 10.12": {
+    "chapter": 10,
+    "verse": "12",
+    "file": "text/part0025.html",
+    "type": "merged",
+    "parent_marker": "12-13",
+    "position": 52537
+  },
+  "BG 10.13": {
+    "chapter": 10,
+    "verse": "13",
+    "file": "text/part0025.html",
+    "type": "merged",
+    "parent_marker": "12-13",
+    "position": 52537
+  },
+  "BG 10.14": {
+    "chapter": 10,
+    "verse": "14",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 59151
+  },
+  "BG 10.15": {
+    "chapter": 10,
+    "verse": "15",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 61930
+  },
+  "BG 10.16": {
+    "chapter": 10,
+    "verse": "16",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 65461
+  },
+  "BG 10.17": {
+    "chapter": 10,
+    "verse": "17",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 67515
+  },
+  "BG 10.18": {
+    "chapter": 10,
+    "verse": "18",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 70302
+  },
+  "BG 10.19": {
+    "chapter": 10,
+    "verse": "19",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 73263
+  },
+  "BG 10.20": {
+    "chapter": 10,
+    "verse": "20",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 76631
+  },
+  "BG 10.21": {
+    "chapter": 10,
+    "verse": "21",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 80131
+  },
+  "BG 10.22": {
+    "chapter": 10,
+    "verse": "22",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 81894
+  },
+  "BG 10.23": {
+    "chapter": 10,
+    "verse": "23",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 83556
+  },
+  "BG 10.24": {
+    "chapter": 10,
+    "verse": "24",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 85307
+  },
+  "BG 10.25": {
+    "chapter": 10,
+    "verse": "25",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 87257
+  },
+  "BG 10.26": {
+    "chapter": 10,
+    "verse": "26",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 89583
+  },
+  "BG 10.27": {
+    "chapter": 10,
+    "verse": "27",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 91711
+  },
+  "BG 10.28": {
+    "chapter": 10,
+    "verse": "28",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 94223
+  },
+  "BG 10.29": {
+    "chapter": 10,
+    "verse": "29",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 96445
+  },
+  "BG 10.30": {
+    "chapter": 10,
+    "verse": "30",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 98416
+  },
+  "BG 10.31": {
+    "chapter": 10,
+    "verse": "31",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 100562
+  },
+  "BG 10.32": {
+    "chapter": 10,
+    "verse": "32",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "32",
+    "position": 102243
+  },
+  "BG 10.33": {
+    "chapter": 10,
+    "verse": "33",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "33",
+    "position": 104768
+  },
+  "BG 10.34": {
+    "chapter": 10,
+    "verse": "34",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "34",
+    "position": 107117
+  },
+  "BG 10.35": {
+    "chapter": 10,
+    "verse": "35",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "35",
+    "position": 109595
+  },
+  "BG 10.36": {
+    "chapter": 10,
+    "verse": "36",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "36",
+    "position": 113081
+  },
+  "BG 10.37": {
+    "chapter": 10,
+    "verse": "37",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "37",
+    "position": 115397
+  },
+  "BG 10.38": {
+    "chapter": 10,
+    "verse": "38",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "38",
+    "position": 117769
+  },
+  "BG 10.39": {
+    "chapter": 10,
+    "verse": "39",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "39",
+    "position": 119802
+  },
+  "BG 10.40": {
+    "chapter": 10,
+    "verse": "40",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "40",
+    "position": 121740
+  },
+  "BG 10.41": {
+    "chapter": 10,
+    "verse": "41",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "41",
+    "position": 123496
+  },
+  "BG 10.42": {
+    "chapter": 10,
+    "verse": "42",
+    "file": "text/part0025.html",
+    "type": "single",
+    "parent_marker": "42",
+    "position": 125211
+  },
+  "BG 11.1": {
+    "chapter": 11,
+    "verse": "1",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 893
+  },
+  "BG 11.2": {
+    "chapter": 11,
+    "verse": "2",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 3869
+  },
+  "BG 11.3": {
+    "chapter": 11,
+    "verse": "3",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 5981
+  },
+  "BG 11.4": {
+    "chapter": 11,
+    "verse": "4",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 8706
+  },
+  "BG 11.5": {
+    "chapter": 11,
+    "verse": "5",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 11460
+  },
+  "BG 11.6": {
+    "chapter": 11,
+    "verse": "6",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 13782
+  },
+  "BG 11.7": {
+    "chapter": 11,
+    "verse": "7",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 15659
+  },
+  "BG 11.8": {
+    "chapter": 11,
+    "verse": "8",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 17549
+  },
+  "BG 11.9": {
+    "chapter": 11,
+    "verse": "9",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 21360
+  },
+  "BG 11.10": {
+    "chapter": 11,
+    "verse": "10",
+    "file": "text/part0026.html",
+    "type": "merged",
+    "parent_marker": "10-11",
+    "position": 22836
+  },
+  "BG 11.11": {
+    "chapter": 11,
+    "verse": "11",
+    "file": "text/part0026.html",
+    "type": "merged",
+    "parent_marker": "10-11",
+    "position": 22836
+  },
+  "BG 11.12": {
+    "chapter": 11,
+    "verse": "12",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 25601
+  },
+  "BG 11.13": {
+    "chapter": 11,
+    "verse": "13",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 27413
+  },
+  "BG 11.14": {
+    "chapter": 11,
+    "verse": "14",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 29501
+  },
+  "BG 11.15": {
+    "chapter": 11,
+    "verse": "15",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 32149
+  },
+  "BG 11.16": {
+    "chapter": 11,
+    "verse": "16",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 34946
+  },
+  "BG 11.17": {
+    "chapter": 11,
+    "verse": "17",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 37030
+  },
+  "BG 11.18": {
+    "chapter": 11,
+    "verse": "18",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 38745
+  },
+  "BG 11.19": {
+    "chapter": 11,
+    "verse": "19",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 40606
+  },
+  "BG 11.20": {
+    "chapter": 11,
+    "verse": "20",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 42938
+  },
+  "BG 11.21": {
+    "chapter": 11,
+    "verse": "21",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 45387
+  },
+  "BG 11.22": {
+    "chapter": 11,
+    "verse": "22",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 47548
+  },
+  "BG 11.23": {
+    "chapter": 11,
+    "verse": "23",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 49694
+  },
+  "BG 11.24": {
+    "chapter": 11,
+    "verse": "24",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 51572
+  },
+  "BG 11.25": {
+    "chapter": 11,
+    "verse": "25",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 53511
+  },
+  "BG 11.26": {
+    "chapter": 11,
+    "verse": "26",
+    "file": "text/part0026.html",
+    "type": "merged",
+    "parent_marker": "26-27",
+    "position": 55331
+  },
+  "BG 11.27": {
+    "chapter": 11,
+    "verse": "27",
+    "file": "text/part0026.html",
+    "type": "merged",
+    "parent_marker": "26-27",
+    "position": 55331
+  },
+  "BG 11.28": {
+    "chapter": 11,
+    "verse": "28",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 59239
+  },
+  "BG 11.29": {
+    "chapter": 11,
+    "verse": "29",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 60905
+  },
+  "BG 11.30": {
+    "chapter": 11,
+    "verse": "30",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 62609
+  },
+  "BG 11.31": {
+    "chapter": 11,
+    "verse": "31",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 64407
+  },
+  "BG 11.32": {
+    "chapter": 11,
+    "verse": "32",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "32",
+    "position": 66281
+  },
+  "BG 11.33": {
+    "chapter": 11,
+    "verse": "33",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "33",
+    "position": 69839
+  },
+  "BG 11.34": {
+    "chapter": 11,
+    "verse": "34",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "34",
+    "position": 73404
+  },
+  "BG 11.35": {
+    "chapter": 11,
+    "verse": "35",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "35",
+    "position": 75880
+  },
+  "BG 11.36": {
+    "chapter": 11,
+    "verse": "36",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "36",
+    "position": 78167
+  },
+  "BG 11.37": {
+    "chapter": 11,
+    "verse": "37",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "37",
+    "position": 81291
+  },
+  "BG 11.38": {
+    "chapter": 11,
+    "verse": "38",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "38",
+    "position": 84810
+  },
+  "BG 11.39": {
+    "chapter": 11,
+    "verse": "39",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "39",
+    "position": 87373
+  },
+  "BG 11.40": {
+    "chapter": 11,
+    "verse": "40",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "40",
+    "position": 89562
+  },
+  "BG 11.41": {
+    "chapter": 11,
+    "verse": "41",
+    "file": "text/part0026.html",
+    "type": "merged",
+    "parent_marker": "41-42",
+    "position": 91914
+  },
+  "BG 11.42": {
+    "chapter": 11,
+    "verse": "42",
+    "file": "text/part0026.html",
+    "type": "merged",
+    "parent_marker": "41-42",
+    "position": 91914
+  },
+  "BG 11.43": {
+    "chapter": 11,
+    "verse": "43",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "43",
+    "position": 96398
+  },
+  "BG 11.44": {
+    "chapter": 11,
+    "verse": "44",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "44",
+    "position": 100660
+  },
+  "BG 11.45": {
+    "chapter": 11,
+    "verse": "45",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "45",
+    "position": 102981
+  },
+  "BG 11.46": {
+    "chapter": 11,
+    "verse": "46",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "46",
+    "position": 106287
+  },
+  "BG 11.47": {
+    "chapter": 11,
+    "verse": "47",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "47",
+    "position": 108905
+  },
+  "BG 11.48": {
+    "chapter": 11,
+    "verse": "48",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "48",
+    "position": 112298
+  },
+  "BG 11.49": {
+    "chapter": 11,
+    "verse": "49",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "49",
+    "position": 118398
+  },
+  "BG 11.50": {
+    "chapter": 11,
+    "verse": "50",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "50",
+    "position": 121478
+  },
+  "BG 11.51": {
+    "chapter": 11,
+    "verse": "51",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "51",
+    "position": 124537
+  },
+  "BG 11.52": {
+    "chapter": 11,
+    "verse": "52",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "52",
+    "position": 127193
+  },
+  "BG 11.53": {
+    "chapter": 11,
+    "verse": "53",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "53",
+    "position": 132699
+  },
+  "BG 11.54": {
+    "chapter": 11,
+    "verse": "54",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "54",
+    "position": 135007
+  },
+  "BG 11.55": {
+    "chapter": 11,
+    "verse": "55",
+    "file": "text/part0026.html",
+    "type": "single",
+    "parent_marker": "55",
+    "position": 142670
+  },
+  "BG 12.1": {
+    "chapter": 12,
+    "verse": "1",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 921
+  },
+  "BG 12.2": {
+    "chapter": 12,
+    "verse": "2",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 5986
+  },
+  "BG 12.3": {
+    "chapter": 12,
+    "verse": "3",
+    "file": "text/part0027.html",
+    "type": "merged",
+    "parent_marker": "3-4",
+    "position": 8463
+  },
+  "BG 12.4": {
+    "chapter": 12,
+    "verse": "4",
+    "file": "text/part0027.html",
+    "type": "merged",
+    "parent_marker": "3-4",
+    "position": 8463
+  },
+  "BG 12.5": {
+    "chapter": 12,
+    "verse": "5",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 12157
+  },
+  "BG 12.6": {
+    "chapter": 12,
+    "verse": "6",
+    "file": "text/part0027.html",
+    "type": "merged",
+    "parent_marker": "6-7",
+    "position": 19230
+  },
+  "BG 12.7": {
+    "chapter": 12,
+    "verse": "7",
+    "file": "text/part0027.html",
+    "type": "merged",
+    "parent_marker": "6-7",
+    "position": 19230
+  },
+  "BG 12.8": {
+    "chapter": 12,
+    "verse": "8",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 26921
+  },
+  "BG 12.9": {
+    "chapter": 12,
+    "verse": "9",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 29074
+  },
+  "BG 12.10": {
+    "chapter": 12,
+    "verse": "10",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 33211
+  },
+  "BG 12.11": {
+    "chapter": 12,
+    "verse": "11",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 36193
+  },
+  "BG 12.12": {
+    "chapter": 12,
+    "verse": "12",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 39640
+  },
+  "BG 12.13": {
+    "chapter": 12,
+    "verse": "13",
+    "file": "text/part0027.html",
+    "type": "merged",
+    "parent_marker": "13-14",
+    "position": 43620
+  },
+  "BG 12.14": {
+    "chapter": 12,
+    "verse": "14",
+    "file": "text/part0027.html",
+    "type": "merged",
+    "parent_marker": "13-14",
+    "position": 43620
+  },
+  "BG 12.15": {
+    "chapter": 12,
+    "verse": "15",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 48549
+  },
+  "BG 12.16": {
+    "chapter": 12,
+    "verse": "16",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 51233
+  },
+  "BG 12.17": {
+    "chapter": 12,
+    "verse": "17",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 53793
+  },
+  "BG 12.18": {
+    "chapter": 12,
+    "verse": "18",
+    "file": "text/part0027.html",
+    "type": "merged",
+    "parent_marker": "18-19",
+    "position": 55965
+  },
+  "BG 12.19": {
+    "chapter": 12,
+    "verse": "19",
+    "file": "text/part0027.html",
+    "type": "merged",
+    "parent_marker": "18-19",
+    "position": 55965
+  },
+  "BG 12.20": {
+    "chapter": 12,
+    "verse": "20",
+    "file": "text/part0027.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 60153
+  },
+  "BG 13.1": {
+    "chapter": 13,
+    "verse": "1",
+    "file": "text/part0028.html",
+    "type": "merged",
+    "parent_marker": "1-2",
+    "position": 953
+  },
+  "BG 13.2": {
+    "chapter": 13,
+    "verse": "2",
+    "file": "text/part0028.html",
+    "type": "merged",
+    "parent_marker": "1-2",
+    "position": 953
+  },
+  "BG 13.3": {
+    "chapter": 13,
+    "verse": "3",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 7873
+  },
+  "BG 13.4": {
+    "chapter": 13,
+    "verse": "4",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 14880
+  },
+  "BG 13.5": {
+    "chapter": 13,
+    "verse": "5",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 17762
+  },
+  "BG 13.6": {
+    "chapter": 13,
+    "verse": "6",
+    "file": "text/part0028.html",
+    "type": "merged",
+    "parent_marker": "6-7",
+    "position": 23112
+  },
+  "BG 13.7": {
+    "chapter": 13,
+    "verse": "7",
+    "file": "text/part0028.html",
+    "type": "merged",
+    "parent_marker": "6-7",
+    "position": 23112
+  },
+  "BG 13.8": {
+    "chapter": 13,
+    "verse": "8",
+    "file": "text/part0028.html",
+    "type": "merged",
+    "parent_marker": "8-12",
+    "position": 28291
+  },
+  "BG 13.9": {
+    "chapter": 13,
+    "verse": "9",
+    "file": "text/part0028.html",
+    "type": "merged",
+    "parent_marker": "8-12",
+    "position": 28291
+  },
+  "BG 13.10": {
+    "chapter": 13,
+    "verse": "10",
+    "file": "text/part0028.html",
+    "type": "merged",
+    "parent_marker": "8-12",
+    "position": 28291
+  },
+  "BG 13.11": {
+    "chapter": 13,
+    "verse": "11",
+    "file": "text/part0028.html",
+    "type": "merged",
+    "parent_marker": "8-12",
+    "position": 28291
+  },
+  "BG 13.12": {
+    "chapter": 13,
+    "verse": "12",
+    "file": "text/part0028.html",
+    "type": "merged",
+    "parent_marker": "8-12",
+    "position": 28291
+  },
+  "BG 13.13": {
+    "chapter": 13,
+    "verse": "13",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 48807
+  },
+  "BG 13.14": {
+    "chapter": 13,
+    "verse": "14",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 52302
+  },
+  "BG 13.15": {
+    "chapter": 13,
+    "verse": "15",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 55574
+  },
+  "BG 13.16": {
+    "chapter": 13,
+    "verse": "16",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 60338
+  },
+  "BG 13.17": {
+    "chapter": 13,
+    "verse": "17",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 63148
+  },
+  "BG 13.18": {
+    "chapter": 13,
+    "verse": "18",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 66382
+  },
+  "BG 13.19": {
+    "chapter": 13,
+    "verse": "19",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 70675
+  },
+  "BG 13.20": {
+    "chapter": 13,
+    "verse": "20",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 73112
+  },
+  "BG 13.21": {
+    "chapter": 13,
+    "verse": "21",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 77241
+  },
+  "BG 13.22": {
+    "chapter": 13,
+    "verse": "22",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 81243
+  },
+  "BG 13.23": {
+    "chapter": 13,
+    "verse": "23",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 84883
+  },
+  "BG 13.24": {
+    "chapter": 13,
+    "verse": "24",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 89364
+  },
+  "BG 13.25": {
+    "chapter": 13,
+    "verse": "25",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 91904
+  },
+  "BG 13.26": {
+    "chapter": 13,
+    "verse": "26",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 95564
+  },
+  "BG 13.27": {
+    "chapter": 13,
+    "verse": "27",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 98980
+  },
+  "BG 13.28": {
+    "chapter": 13,
+    "verse": "28",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 101367
+  },
+  "BG 13.29": {
+    "chapter": 13,
+    "verse": "29",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 103856
+  },
+  "BG 13.30": {
+    "chapter": 13,
+    "verse": "30",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 105960
+  },
+  "BG 13.31": {
+    "chapter": 13,
+    "verse": "31",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 108275
+  },
+  "BG 13.32": {
+    "chapter": 13,
+    "verse": "32",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "32",
+    "position": 110628
+  },
+  "BG 13.33": {
+    "chapter": 13,
+    "verse": "33",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "33",
+    "position": 112598
+  },
+  "BG 13.34": {
+    "chapter": 13,
+    "verse": "34",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "34",
+    "position": 114581
+  },
+  "BG 13.35": {
+    "chapter": 13,
+    "verse": "35",
+    "file": "text/part0028.html",
+    "type": "single",
+    "parent_marker": "35",
+    "position": 117322
+  },
+  "BG 14.1": {
+    "chapter": 14,
+    "verse": "1",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 1001
+  },
+  "BG 14.2": {
+    "chapter": 14,
+    "verse": "2",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 4114
+  },
+  "BG 14.3": {
+    "chapter": 14,
+    "verse": "3",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 7501
+  },
+  "BG 14.4": {
+    "chapter": 14,
+    "verse": "4",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 11150
+  },
+  "BG 14.5": {
+    "chapter": 14,
+    "verse": "5",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 13357
+  },
+  "BG 14.6": {
+    "chapter": 14,
+    "verse": "6",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 15327
+  },
+  "BG 14.7": {
+    "chapter": 14,
+    "verse": "7",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 19057
+  },
+  "BG 14.8": {
+    "chapter": 14,
+    "verse": "8",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 21676
+  },
+  "BG 14.9": {
+    "chapter": 14,
+    "verse": "9",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 24801
+  },
+  "BG 14.10": {
+    "chapter": 14,
+    "verse": "10",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 26837
+  },
+  "BG 14.11": {
+    "chapter": 14,
+    "verse": "11",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 29851
+  },
+  "BG 14.12": {
+    "chapter": 14,
+    "verse": "12",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 31783
+  },
+  "BG 14.13": {
+    "chapter": 14,
+    "verse": "13",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 33815
+  },
+  "BG 14.14": {
+    "chapter": 14,
+    "verse": "14",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 35550
+  },
+  "BG 14.15": {
+    "chapter": 14,
+    "verse": "15",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 37418
+  },
+  "BG 14.16": {
+    "chapter": 14,
+    "verse": "16",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 39503
+  },
+  "BG 14.17": {
+    "chapter": 14,
+    "verse": "17",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 44854
+  },
+  "BG 14.18": {
+    "chapter": 14,
+    "verse": "18",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 48500
+  },
+  "BG 14.19": {
+    "chapter": 14,
+    "verse": "19",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 52163
+  },
+  "BG 14.20": {
+    "chapter": 14,
+    "verse": "20",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 55294
+  },
+  "BG 14.21": {
+    "chapter": 14,
+    "verse": "21",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 57580
+  },
+  "BG 14.22": {
+    "chapter": 14,
+    "verse": "22",
+    "file": "text/part0029.html",
+    "type": "merged",
+    "parent_marker": "22-25",
+    "position": 60050
+  },
+  "BG 14.23": {
+    "chapter": 14,
+    "verse": "23",
+    "file": "text/part0029.html",
+    "type": "merged",
+    "parent_marker": "22-25",
+    "position": 60050
+  },
+  "BG 14.24": {
+    "chapter": 14,
+    "verse": "24",
+    "file": "text/part0029.html",
+    "type": "merged",
+    "parent_marker": "22-25",
+    "position": 60050
+  },
+  "BG 14.25": {
+    "chapter": 14,
+    "verse": "25",
+    "file": "text/part0029.html",
+    "type": "merged",
+    "parent_marker": "22-25",
+    "position": 60050
+  },
+  "BG 14.26": {
+    "chapter": 14,
+    "verse": "26",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 67754
+  },
+  "BG 14.27": {
+    "chapter": 14,
+    "verse": "27",
+    "file": "text/part0029.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 71955
+  },
+  "BG 15.1": {
+    "chapter": 15,
+    "verse": "1",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 986
+  },
+  "BG 15.2": {
+    "chapter": 15,
+    "verse": "2",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 7519
+  },
+  "BG 15.3": {
+    "chapter": 15,
+    "verse": "3",
+    "file": "text/part0030.html",
+    "type": "merged",
+    "parent_marker": "3-4",
+    "position": 11268
+  },
+  "BG 15.4": {
+    "chapter": 15,
+    "verse": "4",
+    "file": "text/part0030.html",
+    "type": "merged",
+    "parent_marker": "3-4",
+    "position": 11268
+  },
+  "BG 15.5": {
+    "chapter": 15,
+    "verse": "5",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 17239
+  },
+  "BG 15.6": {
+    "chapter": 15,
+    "verse": "6",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 21063
+  },
+  "BG 15.7": {
+    "chapter": 15,
+    "verse": "7",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 25720
+  },
+  "BG 15.8": {
+    "chapter": 15,
+    "verse": "8",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 32426
+  },
+  "BG 15.9": {
+    "chapter": 15,
+    "verse": "9",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 35258
+  },
+  "BG 15.10": {
+    "chapter": 15,
+    "verse": "10",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 37554
+  },
+  "BG 15.11": {
+    "chapter": 15,
+    "verse": "11",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 40623
+  },
+  "BG 15.12": {
+    "chapter": 15,
+    "verse": "12",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 43390
+  },
+  "BG 15.13": {
+    "chapter": 15,
+    "verse": "13",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 46878
+  },
+  "BG 15.14": {
+    "chapter": 15,
+    "verse": "14",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 50387
+  },
+  "BG 15.15": {
+    "chapter": 15,
+    "verse": "15",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 53107
+  },
+  "BG 15.16": {
+    "chapter": 15,
+    "verse": "16",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 58986
+  },
+  "BG 15.17": {
+    "chapter": 15,
+    "verse": "17",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 62902
+  },
+  "BG 15.18": {
+    "chapter": 15,
+    "verse": "18",
+    "file": "text/part0030.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 66850
+  },
+  "BG 15.19": {
+    "chapter": 15,
+    "verse": "19",
+    "file": "text/part0032.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 2265
+  },
+  "BG 15.20": {
+    "chapter": 15,
+    "verse": "20",
+    "file": "text/part0032.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 6413
+  },
+  "BG 16.1": {
+    "chapter": 16,
+    "verse": "1",
+    "file": "text/part0033.html",
+    "type": "merged",
+    "parent_marker": "1-3",
+    "position": 867
+  },
+  "BG 16.2": {
+    "chapter": 16,
+    "verse": "2",
+    "file": "text/part0033.html",
+    "type": "merged",
+    "parent_marker": "1-3",
+    "position": 867
+  },
+  "BG 16.3": {
+    "chapter": 16,
+    "verse": "3",
+    "file": "text/part0033.html",
+    "type": "merged",
+    "parent_marker": "1-3",
+    "position": 867
+  },
+  "BG 16.4": {
+    "chapter": 16,
+    "verse": "4",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 22810
+  },
+  "BG 16.5": {
+    "chapter": 16,
+    "verse": "5",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 25054
+  },
+  "BG 16.6": {
+    "chapter": 16,
+    "verse": "6",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 27291
+  },
+  "BG 16.7": {
+    "chapter": 16,
+    "verse": "7",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 29765
+  },
+  "BG 16.8": {
+    "chapter": 16,
+    "verse": "8",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 34086
+  },
+  "BG 16.9": {
+    "chapter": 16,
+    "verse": "9",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 37736
+  },
+  "BG 16.10": {
+    "chapter": 16,
+    "verse": "10",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 40500
+  },
+  "BG 16.11": {
+    "chapter": 16,
+    "verse": "11",
+    "file": "text/part0033.html",
+    "type": "merged",
+    "parent_marker": "11-12",
+    "position": 43234
+  },
+  "BG 16.12": {
+    "chapter": 16,
+    "verse": "12",
+    "file": "text/part0033.html",
+    "type": "merged",
+    "parent_marker": "11-12",
+    "position": 43234
+  },
+  "BG 16.13": {
+    "chapter": 16,
+    "verse": "13",
+    "file": "text/part0033.html",
+    "type": "merged",
+    "parent_marker": "13-15",
+    "position": 47392
+  },
+  "BG 16.14": {
+    "chapter": 16,
+    "verse": "14",
+    "file": "text/part0033.html",
+    "type": "merged",
+    "parent_marker": "13-15",
+    "position": 47392
+  },
+  "BG 16.15": {
+    "chapter": 16,
+    "verse": "15",
+    "file": "text/part0033.html",
+    "type": "merged",
+    "parent_marker": "13-15",
+    "position": 47392
+  },
+  "BG 16.16": {
+    "chapter": 16,
+    "verse": "16",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 51398
+  },
+  "BG 16.17": {
+    "chapter": 16,
+    "verse": "17",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 55997
+  },
+  "BG 16.18": {
+    "chapter": 16,
+    "verse": "18",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 58706
+  },
+  "BG 16.19": {
+    "chapter": 16,
+    "verse": "19",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 61280
+  },
+  "BG 16.20": {
+    "chapter": 16,
+    "verse": "20",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 63844
+  },
+  "BG 16.21": {
+    "chapter": 16,
+    "verse": "21",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 66842
+  },
+  "BG 16.22": {
+    "chapter": 16,
+    "verse": "22",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 68704
+  },
+  "BG 16.23": {
+    "chapter": 16,
+    "verse": "23",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 71586
+  },
+  "BG 16.24": {
+    "chapter": 16,
+    "verse": "24",
+    "file": "text/part0033.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 74913
+  },
+  "BG 17.1": {
+    "chapter": 17,
+    "verse": "1",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 874
+  },
+  "BG 17.2": {
+    "chapter": 17,
+    "verse": "2",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 3841
+  },
+  "BG 17.3": {
+    "chapter": 17,
+    "verse": "3",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 6752
+  },
+  "BG 17.4": {
+    "chapter": 17,
+    "verse": "4",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 11375
+  },
+  "BG 17.5": {
+    "chapter": 17,
+    "verse": "5",
+    "file": "text/part0034.html",
+    "type": "merged",
+    "parent_marker": "5-6",
+    "position": 15951
+  },
+  "BG 17.6": {
+    "chapter": 17,
+    "verse": "6",
+    "file": "text/part0034.html",
+    "type": "merged",
+    "parent_marker": "5-6",
+    "position": 15951
+  },
+  "BG 17.7": {
+    "chapter": 17,
+    "verse": "7",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 20888
+  },
+  "BG 17.8": {
+    "chapter": 17,
+    "verse": "8",
+    "file": "text/part0034.html",
+    "type": "merged",
+    "parent_marker": "8-10",
+    "position": 23148
+  },
+  "BG 17.9": {
+    "chapter": 17,
+    "verse": "9",
+    "file": "text/part0034.html",
+    "type": "merged",
+    "parent_marker": "8-10",
+    "position": 23148
+  },
+  "BG 17.10": {
+    "chapter": 17,
+    "verse": "10",
+    "file": "text/part0034.html",
+    "type": "merged",
+    "parent_marker": "8-10",
+    "position": 23148
+  },
+  "BG 17.11": {
+    "chapter": 17,
+    "verse": "11",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 30198
+  },
+  "BG 17.12": {
+    "chapter": 17,
+    "verse": "12",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 32574
+  },
+  "BG 17.13": {
+    "chapter": 17,
+    "verse": "13",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "13",
+    "position": 34335
+  },
+  "BG 17.14": {
+    "chapter": 17,
+    "verse": "14",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "14",
+    "position": 36218
+  },
+  "BG 17.15": {
+    "chapter": 17,
+    "verse": "15",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 38636
+  },
+  "BG 17.16": {
+    "chapter": 17,
+    "verse": "16",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 40936
+  },
+  "BG 17.17": {
+    "chapter": 17,
+    "verse": "17",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 43745
+  },
+  "BG 17.18": {
+    "chapter": 17,
+    "verse": "18",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 45089
+  },
+  "BG 17.19": {
+    "chapter": 17,
+    "verse": "19",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 47086
+  },
+  "BG 17.20": {
+    "chapter": 17,
+    "verse": "20",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 48923
+  },
+  "BG 17.21": {
+    "chapter": 17,
+    "verse": "21",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 51217
+  },
+  "BG 17.22": {
+    "chapter": 17,
+    "verse": "22",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 53344
+  },
+  "BG 17.23": {
+    "chapter": 17,
+    "verse": "23",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 55154
+  },
+  "BG 17.24": {
+    "chapter": 17,
+    "verse": "24",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 59311
+  },
+  "BG 17.25": {
+    "chapter": 17,
+    "verse": "25",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 60975
+  },
+  "BG 17.26": {
+    "chapter": 17,
+    "verse": "26",
+    "file": "text/part0034.html",
+    "type": "merged",
+    "parent_marker": "26-27",
+    "position": 62686
+  },
+  "BG 17.27": {
+    "chapter": 17,
+    "verse": "27",
+    "file": "text/part0034.html",
+    "type": "merged",
+    "parent_marker": "26-27",
+    "position": 62686
+  },
+  "BG 17.28": {
+    "chapter": 17,
+    "verse": "28",
+    "file": "text/part0034.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 66798
+  },
+  "BG 18.1": {
+    "chapter": 18,
+    "verse": "1",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "1",
+    "position": 930
+  },
+  "BG 18.2": {
+    "chapter": 18,
+    "verse": "2",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "2",
+    "position": 5637
+  },
+  "BG 18.3": {
+    "chapter": 18,
+    "verse": "3",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "3",
+    "position": 8028
+  },
+  "BG 18.4": {
+    "chapter": 18,
+    "verse": "4",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "4",
+    "position": 10416
+  },
+  "BG 18.5": {
+    "chapter": 18,
+    "verse": "5",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "5",
+    "position": 12285
+  },
+  "BG 18.6": {
+    "chapter": 18,
+    "verse": "6",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "6",
+    "position": 15167
+  },
+  "BG 18.7": {
+    "chapter": 18,
+    "verse": "7",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "7",
+    "position": 17382
+  },
+  "BG 18.8": {
+    "chapter": 18,
+    "verse": "8",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "8",
+    "position": 19399
+  },
+  "BG 18.9": {
+    "chapter": 18,
+    "verse": "9",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "9",
+    "position": 21585
+  },
+  "BG 18.10": {
+    "chapter": 18,
+    "verse": "10",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "10",
+    "position": 23621
+  },
+  "BG 18.11": {
+    "chapter": 18,
+    "verse": "11",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "11",
+    "position": 25719
+  },
+  "BG 18.12": {
+    "chapter": 18,
+    "verse": "12",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "12",
+    "position": 27443
+  },
+  "BG 18.13": {
+    "chapter": 18,
+    "verse": "13",
+    "file": "text/part0035.html",
+    "type": "merged",
+    "parent_marker": "13-14",
+    "position": 29309
+  },
+  "BG 18.14": {
+    "chapter": 18,
+    "verse": "14",
+    "file": "text/part0035.html",
+    "type": "merged",
+    "parent_marker": "13-14",
+    "position": 29309
+  },
+  "BG 18.15": {
+    "chapter": 18,
+    "verse": "15",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "15",
+    "position": 33520
+  },
+  "BG 18.16": {
+    "chapter": 18,
+    "verse": "16",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "16",
+    "position": 35247
+  },
+  "BG 18.17": {
+    "chapter": 18,
+    "verse": "17",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "17",
+    "position": 37134
+  },
+  "BG 18.18": {
+    "chapter": 18,
+    "verse": "18",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "18",
+    "position": 39647
+  },
+  "BG 18.19": {
+    "chapter": 18,
+    "verse": "19",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "19",
+    "position": 42159
+  },
+  "BG 18.20": {
+    "chapter": 18,
+    "verse": "20",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "20",
+    "position": 44365
+  },
+  "BG 18.21": {
+    "chapter": 18,
+    "verse": "21",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "21",
+    "position": 46628
+  },
+  "BG 18.22": {
+    "chapter": 18,
+    "verse": "22",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "22",
+    "position": 48862
+  },
+  "BG 18.23": {
+    "chapter": 18,
+    "verse": "23",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "23",
+    "position": 51365
+  },
+  "BG 18.24": {
+    "chapter": 18,
+    "verse": "24",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "24",
+    "position": 53148
+  },
+  "BG 18.25": {
+    "chapter": 18,
+    "verse": "25",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "25",
+    "position": 54480
+  },
+  "BG 18.26": {
+    "chapter": 18,
+    "verse": "26",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "26",
+    "position": 56468
+  },
+  "BG 18.27": {
+    "chapter": 18,
+    "verse": "27",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "27",
+    "position": 58398
+  },
+  "BG 18.28": {
+    "chapter": 18,
+    "verse": "28",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "28",
+    "position": 60612
+  },
+  "BG 18.29": {
+    "chapter": 18,
+    "verse": "29",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "29",
+    "position": 62926
+  },
+  "BG 18.30": {
+    "chapter": 18,
+    "verse": "30",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "30",
+    "position": 64626
+  },
+  "BG 18.31": {
+    "chapter": 18,
+    "verse": "31",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "31",
+    "position": 66709
+  },
+  "BG 18.32": {
+    "chapter": 18,
+    "verse": "32",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "32",
+    "position": 68783
+  },
+  "BG 18.33": {
+    "chapter": 18,
+    "verse": "33",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "33",
+    "position": 70258
+  },
+  "BG 18.34": {
+    "chapter": 18,
+    "verse": "34",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "34",
+    "position": 72296
+  },
+  "BG 18.35": {
+    "chapter": 18,
+    "verse": "35",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "35",
+    "position": 74000
+  },
+  "BG 18.36": {
+    "chapter": 18,
+    "verse": "36",
+    "file": "text/part0035.html",
+    "type": "merged",
+    "parent_marker": "36-37",
+    "position": 76025
+  },
+  "BG 18.37": {
+    "chapter": 18,
+    "verse": "37",
+    "file": "text/part0035.html",
+    "type": "merged",
+    "parent_marker": "36-37",
+    "position": 76025
+  },
+  "BG 18.38": {
+    "chapter": 18,
+    "verse": "38",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "38",
+    "position": 79689
+  },
+  "BG 18.39": {
+    "chapter": 18,
+    "verse": "39",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "39",
+    "position": 81700
+  },
+  "BG 18.40": {
+    "chapter": 18,
+    "verse": "40",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "40",
+    "position": 83790
+  },
+  "BG 18.41": {
+    "chapter": 18,
+    "verse": "41",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "41",
+    "position": 85566
+  },
+  "BG 18.42": {
+    "chapter": 18,
+    "verse": "42",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "42",
+    "position": 87007
+  },
+  "BG 18.43": {
+    "chapter": 18,
+    "verse": "43",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "43",
+    "position": 88434
+  },
+  "BG 18.44": {
+    "chapter": 18,
+    "verse": "44",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "44",
+    "position": 89846
+  },
+  "BG 18.45": {
+    "chapter": 18,
+    "verse": "45",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "45",
+    "position": 91180
+  },
+  "BG 18.46": {
+    "chapter": 18,
+    "verse": "46",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "46",
+    "position": 92525
+  },
+  "BG 18.47": {
+    "chapter": 18,
+    "verse": "47",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "47",
+    "position": 95835
+  },
+  "BG 18.48": {
+    "chapter": 18,
+    "verse": "48",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "48",
+    "position": 100712
+  },
+  "BG 18.49": {
+    "chapter": 18,
+    "verse": "49",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "49",
+    "position": 104490
+  },
+  "BG 18.50": {
+    "chapter": 18,
+    "verse": "50",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "50",
+    "position": 107125
+  },
+  "BG 18.51": {
+    "chapter": 18,
+    "verse": "51",
+    "file": "text/part0035.html",
+    "type": "merged",
+    "parent_marker": "51-53",
+    "position": 109124
+  },
+  "BG 18.52": {
+    "chapter": 18,
+    "verse": "52",
+    "file": "text/part0035.html",
+    "type": "merged",
+    "parent_marker": "51-53",
+    "position": 109124
+  },
+  "BG 18.53": {
+    "chapter": 18,
+    "verse": "53",
+    "file": "text/part0035.html",
+    "type": "merged",
+    "parent_marker": "51-53",
+    "position": 109124
+  },
+  "BG 18.54": {
+    "chapter": 18,
+    "verse": "54",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "54",
+    "position": 113976
+  },
+  "BG 18.55": {
+    "chapter": 18,
+    "verse": "55",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "55",
+    "position": 118075
+  },
+  "BG 18.56": {
+    "chapter": 18,
+    "verse": "56",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "56",
+    "position": 123636
+  },
+  "BG 18.57": {
+    "chapter": 18,
+    "verse": "57",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "57",
+    "position": 125789
+  },
+  "BG 18.58": {
+    "chapter": 18,
+    "verse": "58",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "58",
+    "position": 128886
+  },
+  "BG 18.59": {
+    "chapter": 18,
+    "verse": "59",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "59",
+    "position": 131560
+  },
+  "BG 18.60": {
+    "chapter": 18,
+    "verse": "60",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "60",
+    "position": 134085
+  },
+  "BG 18.61": {
+    "chapter": 18,
+    "verse": "61",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "61",
+    "position": 135908
+  },
+  "BG 18.62": {
+    "chapter": 18,
+    "verse": "62",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "62",
+    "position": 138754
+  },
+  "BG 18.63": {
+    "chapter": 18,
+    "verse": "63",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "63",
+    "position": 141625
+  },
+  "BG 18.64": {
+    "chapter": 18,
+    "verse": "64",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "64",
+    "position": 144528
+  },
+  "BG 18.65": {
+    "chapter": 18,
+    "verse": "65",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "65",
+    "position": 146716
+  },
+  "BG 18.66": {
+    "chapter": 18,
+    "verse": "66",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "66",
+    "position": 149927
+  },
+  "BG 18.67": {
+    "chapter": 18,
+    "verse": "67",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "67",
+    "position": 155261
+  },
+  "BG 18.68": {
+    "chapter": 18,
+    "verse": "68",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "68",
+    "position": 158532
+  },
+  "BG 18.69": {
+    "chapter": 18,
+    "verse": "69",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "69",
+    "position": 160929
+  },
+  "BG 18.70": {
+    "chapter": 18,
+    "verse": "70",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "70",
+    "position": 162276
+  },
+  "BG 18.71": {
+    "chapter": 18,
+    "verse": "71",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "71",
+    "position": 163649
+  },
+  "BG 18.72": {
+    "chapter": 18,
+    "verse": "72",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "72",
+    "position": 166701
+  },
+  "BG 18.73": {
+    "chapter": 18,
+    "verse": "73",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "73",
+    "position": 168998
+  },
+  "BG 18.74": {
+    "chapter": 18,
+    "verse": "74",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "74",
+    "position": 174477
+  },
+  "BG 18.75": {
+    "chapter": 18,
+    "verse": "75",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "75",
+    "position": 176903
+  },
+  "BG 18.76": {
+    "chapter": 18,
+    "verse": "76",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "76",
+    "position": 180720
+  },
+  "BG 18.77": {
+    "chapter": 18,
+    "verse": "77",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "77",
+    "position": 182683
+  },
+  "BG 18.78": {
+    "chapter": 18,
+    "verse": "78",
+    "file": "text/part0035.html",
+    "type": "single",
+    "parent_marker": "78",
+    "position": 184741
+  }
+}

@@ -1,0 +1,131 @@
+# Bhagavad-gita As It Is - EPUB Patterns
+# Extracted from analyzer output - Ground truth for semantic parser
+
+book:
+  name: "Bhagavad-gita As It Is"
+  edition: "1972 Original Edition"
+  author: "A.C. Bhaktivedanta Swami Prabhupada"
+  language: "en"
+  
+structure:
+  type: "chapter_verse"
+  total_chapters: 18
+  total_verses: 700
+  chapter_verse_counts:
+    1: 46
+    2: 72
+    3: 43
+    4: 42
+    5: 29
+    6: 47
+    7: 30
+    8: 28
+    9: 34
+    10: 42
+    11: 55
+    12: 20
+    13: 35
+    14: 27
+    15: 20
+    16: 24
+    17: 28
+    18: 78
+
+# Pattern detection rules learned from analyzer
+chapter_markers:
+  - pattern: "CHAPTER (ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN|ELEVEN|TWELVE|THIRTEEN|FOURTEEN|FIFTEEN|SIXTEEN|SEVENTEEN|EIGHTEEN)"
+    type: "word"
+    confidence: 0.95
+    
+  - pattern: "CHAPTER (\\d+)"
+    type: "numeric"
+    confidence: 0.90
+    
+  - css_classes: ["calibre29", "calibre38"]
+    context: "chapter_header"
+    confidence: 0.85
+
+verse_markers:
+  - pattern: "TEXT (\\d+)"
+    type: "single_verse"
+    confidence: 0.95
+    
+  - pattern: "TEXT (\\d+)-(\\d+)"
+    type: "verse_range"
+    confidence: 0.90
+    action: "expand_range"
+
+# File-to-chapter mapping (from analyzer)
+file_chapter_map:
+  "text/part0005.html": 1
+  "text/part0013.html": 1  # continuation
+  "text/part0014.html": 2
+  "text/part0015.html": 10  # out of order!
+  "text/part0016.html": 3
+  "text/part0017.html": 4
+  "text/part0018.html": 5
+  "text/part0019.html": 6
+  "text/part0020.html": 7
+  "text/part0023.html": 8
+  "text/part0024.html": 9
+  "text/part0025.html": 10  # continuation
+  "text/part0026.html": 11
+  "text/part0027.html": 12
+  "text/part0028.html": 13
+  "text/part0029.html": 4   # continuation
+  "text/part0030.html": 15
+  "text/part0033.html": 6   # continuation
+  "text/part0034.html": 7   # continuation
+  "text/part0035.html": 8   # continuation
+
+# Anomalies discovered
+anomalies:
+  - type: "missing_chapters"
+    chapters: [14, 16, 17, 18]
+    reason: "Not detected by current patterns - need deeper analysis"
+    
+  - type: "split_chapters"
+    chapters: [1, 4, 6, 7, 8, 10]
+    reason: "Chapter content spans multiple files"
+    
+  - type: "out_of_order"
+    files: ["text/part0015.html"]
+    reason: "Chapter 10 appears before Chapter 3"
+    
+  - type: "verse_count_mismatch"
+    chapters:
+      8: {found: 73, expected: 28}
+      10: {found: 67, expected: 42}
+    reason: "Likely counting verses from multiple chapters in same file"
+
+# Parsing strategy
+parsing_rules:
+  - rule: "chapter_continuation"
+    description: "If file has verses but no chapter marker, use previous chapter"
+    priority: 1
+    
+  - rule: "verse_range_expansion"
+    description: "Expand 'TEXT 1-2' into separate verses 1 and 2"
+    priority: 2
+    
+  - rule: "file_order_processing"
+    description: "Process files in sorted order, but track chapter changes"
+    priority: 3
+    
+  - rule: "missing_chapter_detection"
+    description: "After processing, identify missing chapters and search for them"
+    priority: 4
+
+# Validation rules
+validation:
+  - check: "chapter_count"
+    expected: 18
+    
+  - check: "total_verse_count"
+    expected: 700
+    
+  - check: "verse_sequence"
+    description: "Each chapter should have verses 1,2,3... with no gaps"
+    
+  - check: "no_duplicates"
+    description: "No verse should appear twice"

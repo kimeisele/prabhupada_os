@@ -1,0 +1,63 @@
+# ABHIDHEYA (Process/Action)
+# Defines the "How" - the methods and practices.
+# "How do I act? What is the path?"
+
+processes:
+  # --- The Yoga Systems ---
+  bhakti_yoga:
+    definition: "The path of loving devotional service to the Supreme Lord. Considered the highest and most direct path."
+    method: "Hearing, chanting, remembering, serving, etc."
+    key_instruction: "Man-mana bhava mad-bhakto (Think of Me, become My devotee)."
+    related_verses: ["BG 9.34", "BG 18.65", "BG 12.2", "BG 18.55"]
+  
+  karma_yoga:
+    definition: "The path of unattached action. Performing one's duty as an offering to God without desire for the fruit."
+    method: "Work without attachment to results (Nishkama Karma)."
+    key_instruction: "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action."
+    related_verses: ["BG 2.47", "BG 3.9", "BG 3.19", "BG 5.2"]
+  
+  jnana_yoga:
+    definition: "The path of knowledge and philosophical speculation to distinguish spirit from matter."
+    method: "Analytical study, cultivation of knowledge, renunciation."
+    related_verses: ["BG 4.34", "BG 13.12"]
+  
+  dhyana_yoga:
+    definition: "The path of mechanical meditation (Astanga Yoga) to control the mind and senses."
+    method: "Sitting postures, breath control, focusing the mind on Paramatma."
+    related_verses: ["BG 6.11-14", "BG 6.34-35"]
+  
+  buddhi_yoga:
+    definition: "The yoga of intelligence. Using one's intelligence to guide the mind and senses towards the Supreme."
+    related_verses: ["BG 2.39", "BG 10.10"]
+
+  # --- Practical Applications ---
+  chanting:
+    definition: "Reciting the Holy Names of God (Japa/Kirtan)."
+    method: "Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare / Hare Rama, Hare Rama, Rama Rama, Hare Hare."
+    related_verses: ["BG 9.14", "BG 10.25"]
+  
+  yajna:
+    definition: "Sacrifice. Work done for the satisfaction of Vishnu."
+    related_verses: ["BG 3.9", "BG 4.24"]
+  
+  tapasya:
+    definition: "Austerity. Voluntary acceptance of some inconvenience for spiritual advancement."
+    types: ["Body", "Speech", "Mind"]
+    related_verses: ["BG 17.14-16"]
+  
+  dana:
+    definition: "Charity. Giving gifts to worthy persons."
+    types: ["Goodness (duty)", "Passion (expectation)", "Ignorance (wrong place/time)"]
+    related_verses: ["BG 17.20-22"]
+  
+  saranagati:
+    definition: "Surrender. Abandoning all other supports and taking full shelter of Krishna."
+    related_verses: ["BG 18.66", "BG 7.14"]
+  
+  control_senses:
+    definition: "Withdrawing the senses from sense objects like a tortoise withdraws its limbs."
+    related_verses: ["BG 2.58", "BG 2.62-63"]
+  
+  equanimity:
+    definition: "Remaining balanced in happiness and distress, heat and cold, honor and dishonor."
+    related_verses: ["BG 2.14", "BG 2.38", "BG 12.18-19"]

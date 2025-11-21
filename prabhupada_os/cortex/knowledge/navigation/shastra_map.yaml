@@ -1,0 +1,100 @@
+# SHASTRA MAP (Navigation)
+# Defines the structure of the books and how to route queries.
+
+books:
+  BG:
+    name: "Bhagavad-gita As It Is"
+    chapters: 18
+    verses: 700
+    focus: "The Science of God"
+
+topics:
+  - name: "Depression / Anxiety / Confusion"
+    chapter: 1
+    book: "BG"
+    reason: "Arjuna's lamentation and confusion about duty."
+  
+  - name: "Soul / Identity / Reincarnation / Death"
+    chapter: 2
+    book: "BG"
+    reason: "Sankhya Yoga: The distinction between the eternal soul and the temporary body."
+
+  - name: "Karma / Work / Duty"
+    chapter: 3
+    book: "BG"
+    reason: "Karma Yoga: Performing prescribed duties without attachment to results."
+
+  - name: "Transcendental Knowledge / Guru / Sacrifice"
+    chapter: 4
+    book: "BG"
+    reason: "Jnana Yoga: Approaching a spiritual master and understanding the divine nature of work."
+
+  - name: "Renunciation vs Work / Peace"
+    chapter: 5
+    book: "BG"
+    reason: "Karma-sannyasa Yoga: How work in devotion is superior to dry renunciation."
+
+  - name: "Meditation / Control of Mind / Yoga Practice"
+    chapter: 6
+    book: "BG"
+    reason: "Dhyana Yoga: Mechanics of meditation and controlling the restless mind."
+
+  - name: "God vs Demigods / Material Energy"
+    chapter: 7
+    book: "BG"
+    reason: "Vijnana Yoga: Knowledge of the Absolute and the different types of surrender."
+
+  - name: "Death / Afterlife / Yoga Mishra Bhakti"
+    chapter: 8
+    book: "BG"
+    reason: "Taraka-brahma Yoga: Attaining the Supreme at the time of death."
+
+  - name: "Pure Devotion / Protection / Secrecy"
+    chapter: 9
+    book: "BG"
+    reason: "Raja-vidya Raja-guhya Yoga: The most confidential knowledge of pure Bhakti."
+
+  - name: "God's Opulence / Seeing God in World"
+    chapter: 10
+    book: "BG"
+    reason: "Vibhuti Yoga: Recognizing Krishna's greatness in the material world."
+
+  - name: "Universal Form / Cosmic Vision"
+    chapter: 11
+    book: "BG"
+    reason: "Vishva-rupa Darshana: Arjuna sees the terrifying Universal Form."
+
+  - name: "Devotional Service / Personalism"
+    chapter: 12
+    book: "BG"
+    reason: "Bhakti Yoga: The path of personal devotion is recommended over impersonalism."
+
+  - name: "Nature / Enjoyer / Consciousness"
+    chapter: 13
+    book: "BG"
+    reason: "Kshetra-kshetrajna Vibhaga: Distinction between the field (body) and the knower (soul)."
+
+  - name: "Modes of Nature / Psychology / Habits"
+    chapter: 14
+    book: "BG"
+    reason: "Gunatraya-vibhaga: How the three modes (Goodness, Passion, Ignorance) bind the soul."
+
+  - name: "Supreme Person / Detachment"
+    chapter: 15
+    book: "BG"
+    reason: "Purushottama Yoga: The Banyan tree analogy and the Supreme Personality."
+
+  - name: "Divine vs Demoniac Nature / Ethics"
+    chapter: 16
+    book: "BG"
+    reason: "Daivasura-sampad-vibhaga: The qualities of saintly and demoniac persons."
+
+  - name: "Faith / Food / Austerity / Charity"
+    chapter: 17
+    book: "BG"
+    reason: "Sraddhatraya-vibhaga: How faith and activities are colored by the modes of nature."
+
+  - name: "Surrender / Conclusion / Liberation"
+    chapter: 18
+    book: "BG"
+    reason: "Moksha-sannyasa Yoga: The perfection of renunciation and the final instruction to surrender."
