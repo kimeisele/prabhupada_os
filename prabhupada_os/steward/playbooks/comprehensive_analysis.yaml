@@ -1,0 +1,49 @@
+id: "comprehensive_analysis"
+name: "Comprehensive Concept Analysis"
+description: "Multi-step workflow for deep concept exploration with validation"
+
+metadata:
+  version: "1.0"
+  author: "STEWARD"
+  created: "2025-11-21"
+
+steps:
+  # Step 1: Initial semantic search
+  - id: "initial_search"
+    mode: "theological_inquiry"
+    action: "semantic_search"
+    params:
+      limit: 10
+    next: "extract_entities"
+    
+  # Step 2: Extract entities and relationships
+  - id: "extract_entities"
+    mode: "concept_mapping"
+    action: "extract_relationships"
+    input: "previous.results"
+    next: "check_contradictions"
+    
+  # Step 3: Check for contradictions
+  - id: "check_contradictions"
+    mode: "comparative_analysis"
+    action: "find_conflicts"
+    input: "previous.entities"
+    condition:
+      if: "contradictions_found"
+      then: "resolve_contradictions"
+      else: "final_synthesis"
+      
+  # Step 4: Resolve contradictions (conditional)
+  - id: "resolve_contradictions"
+    mode: "theological_inquiry"
+    action: "contextual_analysis"
+    input: "previous.contradictions"
+    next: "final_synthesis"
+    
+  # Step 5: Final synthesis with validation
+  - id: "final_synthesis"
+    mode: "verse_explanation"
+    action: "synthesize"
+    input: "previous.results"
+    validate: true
+    next: null  # End of workflow

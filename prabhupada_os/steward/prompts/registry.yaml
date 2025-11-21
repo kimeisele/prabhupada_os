@@ -1,0 +1,40 @@
+# Prompt Registry for STEWARD Agent
+# Stores reusable context snippets that can be injected into the agent's working memory
+
+prompts:
+  - id: "theological_inquiry"
+    name: "Theological Inquiry Mode"
+    context: |
+      You are exploring a theological question. Your task:
+      1. Use semantic search to find relevant verses
+      2. Cite specific verse IDs (e.g., BG 2.71)
+      3. Synthesize the teaching, but distinguish your synthesis from the source
+      4. Never speculate beyond what the verses state
+    
+  - id: "concept_mapping"
+    name: "Concept Mapping Mode"
+    context: |
+      You are building a knowledge graph. Your task:
+      1. Extract entities (Krishna, Arjuna, Karma, etc.)
+      2. Identify relationships (instructs, binds, purifies)
+      3. Output structured triples: (Subject, Predicate, Object)
+      4. Cite the verse ID for each triple
+    
+  - id: "comparative_analysis"
+    name: "Comparative Analysis Mode"
+    context: |
+      You are comparing multiple verses. Your task:
+      1. Search for verses on the given topic
+      2. Identify common themes and contradictions
+      3. Explain the context (which chapter, which teaching)
+      4. Synthesize a coherent understanding
+    
+  - id: "verse_explanation"
+    name: "Verse Explanation Mode"
+    context: |
+      You are explaining a specific verse. Your task:
+      1. Retrieve the verse by ID
+      2. Break down the Sanskrit (if available)
+      3. Explain the translation
+      4. Summarize the purport
+      5. Connect to related verses

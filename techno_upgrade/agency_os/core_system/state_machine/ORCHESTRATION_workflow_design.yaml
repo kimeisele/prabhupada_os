@@ -1,0 +1,244 @@
+# =================================================================
+# ORCHESTRATION_workflow_design.yaml
+# Defines die SDLC-statesmaschine, ihre Zustände, Übergänge
+# und Fehlerbehandlungs-Schleifen.
+# Based auf der Analyse in Teil 1 dieses Berichts.
+#
+# PHASE 3 ENHANCEMENTS (GAD-002):
+# - Added horizontal_audits to states (Decision 4: Continuous Per-Phase Auditing)
+# - Added quality_gates to transitions (Decision 2: Hybrid Blocking/Async)
+# - Implements shift-left security with blocking critical checks
+# =================================================================
+version: 2.0.0
+kind: SDLCStateMachine
+
+# 1. Definition der Workflow-Zustände (States)
+# Jeder state entspricht einem Kern-Framework.
+states:
+ - name: "PLANNING"
+   description: "Projektplanung und Anforderungsanalyse. Besteht aus drei Phasen (Research ist optional)."
+   responsible_framework: "ProjectManagement"
+   output_artifact: "project_manifest.json"
+   horizontal_audits:  # GAD-002 Decision 4: Continuous Per-Phase Auditing
+     - name: "prompt_security_scan"
+       severity: "critical"
+       blocking: true
+       description: "Scan all agent prompts for injection vulnerabilities"
+     - name: "data_privacy_scan"
+       severity: "critical"
+       blocking: true
+       description: "Check for PII leaks in feature specifications"
+     - name: "quality_best_practices"
+       severity: "info"
+       blocking: false
+       description: "Validate planning follows best practices"
+   sub_states:
+     - name: "RESEARCH"
+       description: "Optional: Fact-based market, technical, and user research before business planning"
+       responsible_agents:
+         - "MARKET_RESEARCHER"
+         - "TECH_RESEARCHER"
+         - "FACT_VALIDATOR"
+         - "USER_RESEARCHER"
+       output_artifact: "research_brief.json"
+       optional: true
+       state_machine_ref: "01_planning_framework/state_machine/RESEARCH_workflow_design.yaml"
+
+     - name: "BUSINESS_VALIDATION"
+       description: "Validierung des Geschäftsmodells durch Lean Canvas"
+       responsible_agent: "LEAN_CANVAS_VALIDATOR"
+       input_artifact: "research_brief.json"  # Optional input
+       input_artifact_optional: true
+       output_artifact: "lean_canvas_summary.json"
+
+     - name: "FEATURE_SPECIFICATION"
+       description: "Umwandlung validierter Business-Anforderungen in technische Features"
+       responsible_agent: "VIBE_ALIGNER"
+       input_artifact: "lean_canvas_summary.json"
+       output_artifact: "feature_spec.json"
+
+     - name: "ARCHITECTURE_DESIGN"
+       description: "Transform validated feature spec into buildable software architecture using Genesis Core pattern"
+       responsible_agent: "GENESIS_BLUEPRINT"
+       input_artifact: "feature_spec.json"
+       output_artifact: ["architecture.json", "code_gen_spec.json"]
+       optional: false
+
+ - name: "CODING"
+   description: "Gesteuert durch das Code-Gen-Framework. Nimmt code_gen_spec entgegen und erzeugt artifact_bundle."
+   responsible_framework: "CODE_GEN "
+   input_artifact: "code_gen_spec.json"
+   output_artifact: "artifact_bundle"
+   horizontal_audits:  # GAD-002 Decision 4: Continuous Per-Phase Auditing
+     - name: "code_security_scan"
+       severity: "critical"
+       blocking: true
+       description: "Scan generated code for security vulnerabilities (SQL injection, XSS, etc.)"
+     - name: "license_compliance_scan"
+       severity: "high"
+       blocking: true
+       description: "Validate all dependencies have compatible licenses"
+     - name: "code_complexity_check"
+       severity: "info"
+       blocking: false
+       description: "Check cyclomatic complexity and maintainability"
+
+ - name: "TESTING"
+   description: "Gesteuert durch das QA-Framework. Führt die Testpyramide aus und erzeugt einen QA-Bericht."
+   responsible_framework: "QA_TESTING "
+   input_artifact: ["artifact_bundle", "test_plan.json"]
+   output_artifact: "qa_report.json"
+
+ - name: "AWAITING_QA_APPROVAL"
+   description: "Ein langlebiger (durable) Wartezustand, der auf eine manuelle HITL-Genehmigung wartet."
+   responsible_framework: "Orchestrator (HITL)"
+   input_artifact: "qa_report.json"
+   
+ - name: "DEPLOYMENT"
+   description: "Gesteuert durch das Deployment-Framework. Führt das Deployment in die Produktion durch."
+   responsible_framework: "DEPLOYMENT "
+   input_artifact: "qa_report.json" # (Mit Status APPROVED)
+   output_artifact: "deploy_receipt.json"
+
+ - name: "PRODUCTION"
+   description: "Endzustand. Der Workflow ist erfolgreich abgeschlossen."
+   responsible_framework: "N/A (Terminal State)"
+
+ - name: "MAINTENANCE"
+   description: "Paralleler, ereignisgesteuerter state, gesteuert durch. Löst Fix-Workflows aus."
+   responsible_framework: "MAINTENANCE "
+   input_artifact: "bug_report.json"
+   output_artifact: "code_gen_spec.json" # (Für den Fix)
+
+ - name: "EXTERNAL_EVENT"
+   description: "Ein Pseudo-state, der einen externen, ereignisgesteuerten Startpunkt für einen Workflow darstellt, z.B. einen eingehenden Bug-Report."
+   responsible_framework: "Orchestrator (Event Listener)"
+
+# 2. Definition der Workflow-Übergänge (Transitions)
+transitions:
+ # Research Phase Transitions (NEW)
+ - name: "T0a_ResearchToBusiness"
+   from_state: "PLANNING.RESEARCH"
+   to_state: "PLANNING.BUSINESS_VALIDATION"
+   trigger: "research_brief.json created AND research_brief.handoff_to_lean_canvas.status == 'READY'"
+   type: "Automated"
+   description: "Research phase completed successfully, proceed to business validation with research insights"
+
+ - name: "T0b_SkipResearchStartBusiness"
+   from_state: "PLANNING"
+   to_state: "PLANNING.BUSINESS_VALIDATION"
+   trigger: "User opts to skip RESEARCH phase OR research not requested"
+   type: "User-Choice"
+   description: "Skip research phase and start directly with business validation"
+
+ # Existing Planning Transitions
+ - name: "T0_BusinessToFeatures"
+   from_state: "PLANNING.BUSINESS_VALIDATION"
+   to_state: "PLANNING.FEATURE_SPECIFICATION"
+   trigger: "lean_canvas_summary.json erstellt UND readiness.status == 'READY'"
+   type: "Automated"
+
+ - name: "T0c_FeaturesToArchitecture"
+   from_state: "PLANNING.FEATURE_SPECIFICATION"
+   to_state: "PLANNING.ARCHITECTURE_DESIGN"
+   trigger: "feature_spec.json erstellt UND validation.ready_for_genesis == true"
+   type: "Automated"
+   description: "Feature specification complete, proceed to architecture design"
+
+ - name: "T1_StartCoding"
+   from_state: "PLANNING.ARCHITECTURE_DESIGN"
+   to_state: "CODING"
+   trigger: "architecture.json AND code_gen_spec.json erstellt"
+   type: "Automated"
+   quality_gates:  # GAD-002 Decision 2: Hybrid Blocking/Async Quality Gates
+     - agent: "AUDITOR"
+       check: "prompt_security_scan"
+       severity: "critical"
+       blocking: true
+       description: "Block CODING if planning prompts contain injection vulnerabilities"
+     - agent: "AUDITOR"
+       check: "feature_spec_validation"
+       severity: "high"
+       blocking: true
+       description: "Validate feature_spec.json against schema before CODING"
+
+ - name: "T2_StartTesting"
+   from_state: "CODING"
+   to_state: "TESTING"
+   trigger: "artifact_bundle erstellt UND interne Code-Gen Quality Gates  bestanden."
+   type: "Automated"
+
+ - name: "T3_RequestQAApproval"
+   from_state: "TESTING"
+   to_state: "AWAITING_QA_APPROVAL"
+   trigger: "qa_report.json erstellt (unabhängig vom Status)."
+   type: "Automated"
+   
+ - name: "T4_StartDeployment"
+   from_state: "AWAITING_QA_APPROVAL"
+   to_state: "DEPLOYMENT"
+   trigger: "HITL-Ereignis: 'qa_approved_signal' empfangen UND qa_report.status == 'APPROVED'."
+   type: "Human-in-the-Loop (HITL)"
+   quality_gates:  # GAD-002 Decision 2: Critical checks before production deployment
+     - agent: "AUDITOR"
+       check: "code_security_scan"
+       severity: "critical"
+       blocking: true
+       description: "MUST pass security scan before production deployment"
+     - agent: "AUDITOR"
+       check: "license_compliance_scan"
+       severity: "critical"
+       blocking: true
+       description: "MUST verify all licenses are compatible before deployment"
+     - agent: "AUDITOR"
+       check: "data_privacy_compliance"
+       severity: "critical"
+       blocking: true
+       description: "MUST verify GDPR/privacy compliance before deployment"
+     - agent: "AUDITOR"
+       check: "performance_benchmarks"
+       severity: "info"
+       blocking: false
+       description: "Optional performance checks (non-blocking)"
+
+ - name: "T5_DeploymentSuccess"
+   from_state: "DEPLOYMENT"
+   to_state: "PRODUCTION"
+   trigger: "deploy_receipt.json erstellt mit status == 'SUCCESS'."
+   type: "Automated"
+
+ - name: "T6_TriggerMaintenance"
+   from_state: "EXTERNAL_EVENT"
+   to_state: "MAINTENANCE"
+   trigger: "Asynchrones Signal 'bug_report_received' mit gültigem bug_report.json."
+   type: "Event-Driven"
+
+# 3. Definition der Fehler- und Rückkopplungsschleifen (Loops)
+loops:
+ - name: "L1_TestFailed"
+   description: "Test-Phase fehlgeschlagen, erfordert Code-Fix."
+   from_state: "AWAITING_QA_APPROVAL"
+   to_state: "CODING"
+   trigger: "HITL-Ereignis: 'qa_rejected_signal' empfangen ODER qa_report.status == 'REJECTED'."
+   action: "Übergebe qa_report.json als Feedback-Paket an den CODING-state."
+
+ - name: "L2_DeployFailed"
+   description: "Deployment fehlgeschlagen und zurückgerollt, erfordert P1-Bugfix."
+   from_state: "DEPLOYMENT"
+   to_state: "MAINTENANCE"
+   trigger: "deploy_receipt.json erstellt mit status == 'ROLLED_BACK'."
+   action: "Automatische Erstellung eines P1_Critical bug_report.json aus dem deploy_receipt und Auslösung von T6."
+
+ - name: "L3_HotfixLoop"
+   description: "Ein P1-Bug umgeht das reguläre Planning."
+   from_state: "MAINTENANCE"
+   to_state: "CODING"
+   trigger: "Bug-Triage  klassifiziert als 'Hotfix'."
+   action: "Neue Workflow-Instanz mit hoher Priorität starten."
+
+ - name: "L4_RegularFixLoop"
+   description: "Ein P2-P5-Bug muss im Backlog priorisiert werden."
+   from_state: "MAINTENANCE"
+   to_state: "PLANNING"
+   trigger: "Bug-Triage  klassifiziert als 'Regular Fix'."
+   action: "Item zum PLANNING-Backlog hinzufügen."

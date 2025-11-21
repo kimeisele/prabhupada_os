@@ -55,6 +55,7 @@ def main():
     search_parser = subparsers.add_parser('search', help='Semantic search for verses')
     search_parser.add_argument('query', type=str, help='The search query')
     search_parser.add_argument('--limit', type=int, default=5, help='Max results')
+    search_parser.add_argument('--semantic', action='store_true', help='Use semantic (concept-based) search')
     search_parser.add_argument('--json', action='store_true', help="Output in JSON format")
 
     args = parser.parse_args()
@@ -86,25 +87,56 @@ def main():
     # Handle Search
     elif args.command == 'search':
         try:
-            # Use the Library Facade
-            response = prabhupada.ask(args.query)
+            # Initialize logger
+            from prabhupada_os.steward.logger import QueryLogger
+            logger = QueryLogger()
             
-            if args.json:
-                output = {
-                    "success": True,
-                    "meta": response.meta,
-                    "data": {
-                        "count": len(response.sruti),
-                        "verses": response.sruti,
-                        "synthesis": response.smriti
+            # Use semantic search if flag is set
+            if args.semantic:
+                core = PrabhupadaCore()
+                verses = core.semantic_search(args.query, limit=args.limit)
+                
+                # Log the query
+                logger.log_query(args.query, "semantic", verses, {"limit": args.limit})
+                
+                if args.json:
+                    output = {
+                        "success": True,
+                        "meta": {"query": args.query, "mode": "semantic"},
+                        "data": {
+                            "count": len(verses),
+                            "verses": verses
+                        }
                     }
-                }
-                print(json.dumps(output, indent=2))
+                    print(json.dumps(output, indent=2))
+                else:
+                    print(f"🔍 Found {len(verses)} verses for '{args.query}' (semantic)\n")
+                    for v in verses:
+                        sim_pct = int(v.get('similarity', 0) * 100)
+                        print(f"[{v['id']}] ({sim_pct}% match) {v['translation'][:100]}...")
             else:
-                print(f"🔍 Found {len(response.sruti)} verses for '{args.query}'\n")
-                for v in response.sruti:
-                    print(f"[{v['id']}] {v['translation'][:100]}...")
-                print(f"\n🧠 Synthesis: {response.smriti}")
+                # Use the Library Facade for keyword search
+                response = prabhupada.ask(args.query)
+                
+                # Log the query
+                logger.log_query(args.query, "keyword", response.sruti, {"limit": args.limit})
+                
+                if args.json:
+                    output = {
+                        "success": True,
+                        "meta": response.meta,
+                        "data": {
+                            "count": len(response.sruti),
+                            "verses": response.sruti,
+                            "synthesis": response.smriti
+                        }
+                    }
+                    print(json.dumps(output, indent=2))
+                else:
+                    print(f"🔍 Found {len(response.sruti)} verses for '{args.query}'\n")
+                    for v in response.sruti:
+                        print(f"[{v['id']}] {v['translation'][:100]}...")
+                    print(f"\n🧠 Synthesis: {response.smriti}")
                 
         except Exception as e:
             error_out = {

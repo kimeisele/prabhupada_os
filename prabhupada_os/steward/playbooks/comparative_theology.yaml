@@ -1,0 +1,49 @@
+id: "comparative_theology"
+name: "Comparative Theological Analysis"
+description: "Compare multiple verses on a topic to find themes and resolve apparent contradictions"
+
+metadata:
+  version: "1.0"
+  author: "STEWARD"
+  created: "2025-11-21"
+
+steps:
+  # Step 1: Search for verses on the topic
+  - id: "topic_search"
+    mode: "theological_inquiry"
+    action: "semantic_search"
+    params:
+      limit: 15
+    next: "identify_themes"
+    
+  # Step 2: Identify common themes
+  - id: "identify_themes"
+    mode: "concept_mapping"
+    action: "extract_relationships"
+    input: "previous.results"
+    next: "find_contradictions"
+    
+  # Step 3: Find apparent contradictions
+  - id: "find_contradictions"
+    mode: "comparative_analysis"
+    action: "find_conflicts"
+    input: "previous.entities"
+    condition:
+      if: "contradictions_found"
+      then: "resolve_conflicts"
+      else: "synthesize_themes"
+      
+  # Step 4: Resolve conflicts (conditional)
+  - id: "resolve_conflicts"
+    mode: "comparative_analysis"
+    action: "contextual_analysis"
+    input: "previous.contradictions"
+    next: "synthesize_themes"
+    
+  # Step 5: Synthesize coherent understanding
+  - id: "synthesize_themes"
+    mode: "theological_inquiry"
+    action: "synthesize"
+    input: "previous.results"
+    validate: true
+    next: null

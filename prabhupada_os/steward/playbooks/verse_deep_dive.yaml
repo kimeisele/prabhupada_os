@@ -1,0 +1,34 @@
+id: "verse_deep_dive"
+name: "Verse Deep Dive"
+description: "Detailed analysis of a specific verse with context and related verses"
+
+metadata:
+  version: "1.0"
+  author: "STEWARD"
+  created: "2025-11-21"
+
+steps:
+  # Step 1: Retrieve the specific verse
+  - id: "get_verse"
+    mode: "verse_explanation"
+    action: "semantic_search"
+    params:
+      limit: 1
+    next: "find_related"
+    
+  # Step 2: Find related verses
+  - id: "find_related"
+    mode: "comparative_analysis"
+    action: "semantic_search"
+    params:
+      limit: 5
+    input: "previous.results"
+    next: "explain_verse"
+    
+  # Step 3: Explain the verse in detail
+  - id: "explain_verse"
+    mode: "verse_explanation"
+    action: "synthesize"
+    input: "previous.results"
+    validate: true
+    next: null

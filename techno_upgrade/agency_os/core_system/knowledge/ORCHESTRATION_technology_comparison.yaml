@@ -1,0 +1,102 @@
+# =================================================================
+# ORCHESTRATION_technology_comparison.yaml
+# Vergleicht die Orchestrierungs-Engines anhand der in Teil 3
+# analysierten kritischen v1.0-Anforderungen.
+# =================================================================
+version: 1.0.0
+kind: TechnologyComparison
+
+# 1. Definition der kritischen Anforderungen
+# Dies sind die nicht verhandelbaren Anforderungen, die aus dem
+# Workflow-Design in Teil 1 abgeleitet wurden.
+critical_requirements:
+ - id: "DURABLE_EXECUTION"
+   description: "Fähigkeit, den Workflow-Zustand über Abstürze, Neustarts und lange Wartezeiten (Tage/Wochen) hinweg beizubehalten."
+   rationale: "Erforderlich für HITL-Genehmigungs-Gates (T3) und langlebige SDLC-Prozesse."
+ - id: "HITL_SUPPORT"
+   description: "Native Fähigkeit, einen Workflow für eine menschliche Genehmigung anzuhalten, ohne Rechenressourcen zu verbrauchen."
+   rationale: "Erforderlich für QA-Freigabe  und Deployment-Genehmigung."
+ - id: "OBSERVABILITY"
+   description: "Fähigkeit, den Zustand einzelner Workflow-Instanzen abzufragen und zu visualisieren."
+   rationale: "Erforderlich für das Management und Debugging von Tausenden paralleler Workflows."
+
+# 2. Fähigkeitsmatrix der Orchestrierungs-Engines (v1.0)
+capability_matrix:
+ - candidate: "Temporal"
+   durable_execution: "Hervorragend"
+   hitl_support: "Hervorragend"
+   observability: "Gut"
+   setup_complexity_self_hosted: "Sehr hoch"
+   ecosystem: "Polyglott"
+   
+ - candidate: "Prefect"
+   durable_execution: "Gut"
+   hitl_support: "Hervorragend"
+   observability: "Hervorragend"
+   setup_complexity_self_hosted: "Extrem niedrig"
+   ecosystem: "Python-zentriert"
+
+ - candidate: "GitHub Actions"
+   durable_execution: "Nicht vorhanden"
+   hitl_support: "Begrenzt"
+   observability: "Schwach"
+   setup_complexity_self_hosted: "Niedrig"
+   ecosystem: "Polyglott (YAML)"
+
+ - candidate: "Custom Build"
+   durable_execution: "Nicht vorhanden"
+   hitl_support: "Nicht vorhanden"
+   observability: "Nicht vorhanden"
+   setup_complexity_self_hosted: "Extrem hoch"
+   ecosystem: "N/A"
+
+# 3. Detailanalyse der Implementierung kritischer Funktionen
+feature_implementation_analysis:
+ - feature: "Durable Execution (Tage/Wochen)"
+   temporal: "Kernarchitektur. Zustand wird extern vom Service verwaltet. Worker sind zustandslos. Workflows können unbegrenzt 'schlafen'."
+   prefect: "State-Management-Modell. Zustand wird persistiert und kann bei einem Neustart wiederhergestellt werden."
+   github_actions: "Nicht unterstützt. Jobs werden nach 6 Stunden beendet. Architektonischer Dealbreaker."
+
+ - feature: "HITL (Workflow-Pause)"
+   temporal: "Signal/Await-Muster. Workflow `await`et auf ein externes Signal (z. B. `qa_approved`). Sehr leistungsfähig, asynchron."
+   prefect: "Native `pause_flow_run`-Funktion. Workflow hält explizit an und wartet auf UI-Input. Sehr einfach, synchron."
+   github_actions: "Nur 'Environments'-Gate. Kann nur `deployment`-Jobs blockieren. Unzureichend für QA- oder Triage-Schritte."
+
+ - feature: "Workflow-Abfrage (Query State)"
+   temporal: "Native `Query`-Funktion. Erlaubt synchrone Abfrage des internen Workflow-Zustands (lokale Variablen)."
+   prefect: "API / UI-zentriert. Zustand wird über die API und das Dashboard abgefragt."
+   github_actions: "Nicht unterstützt. Es gibt keinen abfragbaren, langlebigen Workflow-Zustand."
+
+# 4. v1.0 Trade-off-Analyse und Empfehlung
+tradeoff_analysis:
+ - candidate: "Temporal (Cloud)"
+   setup_cost_v1: "Sehr niedrig"
+   operating_cost_v1: "Mittel (Usage-based)"
+   scalability_v2: "Sehr hoch"
+   polyglot_support: "Hervorragend"
+   recommendation: "EMPFOHLEN"
+   rationale: "Bietet die beste langfristige Architektur  bei gleichzeitig niedrigsten Setup-Kosten , wodurch der v1.0-Trade-off umgangen wird."
+
+ - candidate: "Prefect (Self-Hosted)"
+   setup_cost_v1: "Extrem niedrig"
+   operating_cost_v1: "Niedrig (Infrastruktur)"
+   scalability_v2: "Hoch"
+   polyglot_support: "Begrenzt (Python)"
+   recommendation: "AKZEPTABLE ALTERNATIVE"
+   rationale: "Schnellste Time-to-Value, wenn das gesamte Ökosystem Python-basiert ist. Einfachere HITL-Primitive."
+   
+ - candidate: "Temporal (Self-Hosted)"
+   setup_cost_v1: "Sehr hoch"
+   operating_cost_v1: "Hoch (Infrastruktur + Wartung)"
+   scalability_v2: "Sehr hoch"
+   polyglot_support: "Hervorragend"
+   recommendation: "NICHT EMPFOHLEN (für v1.0)"
+   rationale: "Die Setup- und Wartungskomplexität  ist für ein v1.0-Projekt ein zu hohes Risiko."
+
+ - candidate: "GitHub Actions (als Orchestrator)"
+   setup_cost_v1: "Niedrig"
+   operating_cost_v1: "Mittel (Usage-based)"
+   scalability_v2: "Sehr niedrig"
+   polyglot_support: "Hervorragend"
+   recommendation: "ABGELEHNT"
+   rationale: "Architektonisch ungeeignet. Erfüllt nicht die Anforderung 'Durable Execution'. Korrekte Rolle ist 'Task-Runner'."

@@ -1,0 +1,87 @@
+# Validation Rules for STEWARD Agent
+# Defines thresholds and criteria for validating AI synthesis (Smriti) against source verses (Sruti)
+
+rules:
+  # Rule 1: Logical Consistency
+  - id: "no_contradiction"
+    type: "logical_consistency"
+    threshold: 0.7
+    description: "Synthesis must not contradict any cited verse"
+    severity: "critical"
+    action_on_failure: "reject_synthesis"
+    
+  # Rule 2: Citation Accuracy
+  - id: "citation_relevance"
+    type: "citation_accuracy"
+    threshold: 0.6
+    description: "Each cited verse must support the claim"
+    severity: "high"
+    action_on_failure: "flag_for_review"
+    
+  # Rule 3: Doctrinal Alignment
+  - id: "doctrinal_match"
+    type: "doctrinal_alignment"
+    threshold: 0.5
+    description: "Synthesis must align with established teachings"
+    severity: "medium"
+    action_on_failure: "warn"
+
+# Doctrinal Keywords
+# Terms that should appear in proper theological synthesis
+doctrinal_terms:
+  core_entities:
+    - "krishna"
+    - "arjuna"
+    - "supreme lord"
+    - "bhagavan"
+    
+  philosophical_concepts:
+    - "soul"
+    - "atma"
+    - "karma"
+    - "dharma"
+    - "yoga"
+    - "bhakti"
+    - "jnana"
+    
+  qualities:
+    - "eternal"
+    - "transcendental"
+    - "spiritual"
+    - "material"
+    - "temporary"
+    - "consciousness"
+    
+  actions:
+    - "devotion"
+    - "surrender"
+    - "meditation"
+    - "service"
+
+# Speculative Phrases
+# Phrases that indicate speculation rather than citation-based synthesis
+speculative_phrases:
+  - "i think"
+  - "i believe"
+  - "probably"
+  - "maybe"
+  - "perhaps"
+  - "it seems"
+  - "might be"
+  - "could be"
+  - "in my opinion"
+  - "possibly"
+
+# Validation Modes
+modes:
+  - id: "strict"
+    description: "Strict validation for critical theological questions"
+    threshold_multiplier: 1.2
+    
+  - id: "standard"
+    description: "Standard validation for general queries"
+    threshold_multiplier: 1.0
+    
+  - id: "lenient"
+    description: "Lenient validation for exploratory synthesis"
+    threshold_multiplier: 0.8

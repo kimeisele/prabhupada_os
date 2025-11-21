@@ -1,0 +1,10 @@
+{
+  "id": "job_20251121_180452",
+  "status": "pending",
+  "created_at": "2025-11-21T18:04:52.405074",
+  "task": {
+    "type": "query",
+    "prompt_id": "theological_inquiry",
+    "query": "What is the nature of the soul?"
+  }
+}

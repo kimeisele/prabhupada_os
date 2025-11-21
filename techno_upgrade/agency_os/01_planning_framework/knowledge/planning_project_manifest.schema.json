@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://schemas.agency-os.com/planning_project_manifest.v1.2.json",
+  "title": "Planning Framework Project Manifest",
+  "description": "Schema for projects being planned using VIBE Planning Framework v1.2+",
+  "type": "object",
+  "properties": {
+    "project_id": {
+      "description": "Unique identifier for the project",
+      "type": "string"
+    },
+    "project_name": {
+      "description": "Human-readable name of the project",
+      "type": "string"
+    },
+    "project_type": {
+      "description": "Type of project (affects planning mode)",
+      "type": "string",
+      "enum": ["commercial", "portfolio", "demo", "nonprofit", "personal"]
+    },
+    "abstraction_level": {
+      "description": "Abstraction level of the project (v1.2+). Affects feature complexity estimation, FAE applicability, and NFR priorities.",
+      "type": "string",
+      "enum": ["CONCRETE", "LIBRARY", "FRAMEWORK", "PLATFORM"],
+      "default": "CONCRETE"
+    },
+    "current_state": {
+      "description": "Current state in the planning process",
+      "type": "string",
+      "enum": ["PLANNING", "READY_FOR_CODE", "CODING", "COMPLETED"]
+    },
+    "metadata": {
+      "description": "Additional project metadata",
+      "type": "object",
+      "properties": {
+        "description": {
+          "type": "string"
+        },
+        "target_users": {
+          "type": "string"
+        },
+        "core_challenge": {
+          "type": "string"
+        }
+      }
+    },
+    "created_at": {
+      "description": "ISO 8601 timestamp of project creation",
+      "type": "string",
+      "format": "date-time"
+    },
+    "framework_version": {
+      "description": "Version of VIBE Planning Framework used",
+      "type": "string"
+    }
+  },
+  "required": ["project_id", "project_name", "project_type", "current_state"],
+  "$defs": {
+    "abstraction_levels": {
+      "CONCRETE": {
+        "description": "Standard applications, websites, APIs with concrete user-facing features",
+        "examples": ["E-commerce app", "Blog platform", "REST API", "Mobile app"],
+        "complexity_multiplier": 1.0,
+        "nfr_priority_boost": ["PERF-CAPACITY", "SECU-CONFIDENTIALITY"],
+        "fae_filter": "all"
+      },
+      "LIBRARY": {
+        "description": "Reusable components, SDKs, packages with API-focused features",
+        "examples": ["React component library", "Python SDK", "npm package"],
+        "complexity_multiplier": 1.2,
+        "nfr_priority_boost": ["MAIN-REUSABILITY", "MAIN-TESTABILITY", "COMP-INTEROPERABILITY"],
+        "fae_filter": "exclude_app_specific"
+      },
+      "FRAMEWORK": {
+        "description": "Tools to build tools, meta-features, template systems",
+        "examples": ["VIBE Planning Framework", "Code generator", "Build system"],
+        "complexity_multiplier": 1.5,
+        "nfr_priority_boost": ["MAIN-MODULARITY", "MAIN-REUSABILITY", "MAIN-TESTABILITY"],
+        "fae_filter": "framework_applicable"
+      },
+      "PLATFORM": {
+        "description": "Multi-tenant ecosystems, infrastructure-focused systems",
+        "examples": ["AWS-like platform", "Plugin marketplace", "SaaS platform"],
+        "complexity_multiplier": 2.0,
+        "nfr_priority_boost": ["PERF-CAPACITY", "SECU-ACCOUNTABILITY", "RELI-AVAILABILITY"],
+        "fae_filter": "platform_applicable"
+      }
+    }
+  }
+}
